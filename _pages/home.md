@@ -9,11 +9,11 @@ header:
   caption:
 excerpt: 'Learn and enjoy photography in Birmingham with Pete Ashton'
 feature_row:
-  - image_path: /assets/images/mm-customizable-feature.png
+  - image_path: https://i1.wp.com/www.photo-school.co.uk/wp-content/uploads/sites/13/2015/09/slider00006-830x550.jpg
     alt: "customizable"
-    title: "Super Customizable"
-    excerpt: "Everything from the menus, sidebars, comments, and more can be configured or set with YAML Front Matter."
-    url: "/docs/configuration/"
+    title: "Beginners Photography"
+    excerpt: "Master the controls of your camera and learn how to take photos you can be proud of. No prior knowledge required!"
+    url: "/beginners/"
     btn_class: "btn--primary"
     btn_label: "Learn More"
   - image_path: /assets/images/mm-responsive-feature.png
