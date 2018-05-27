@@ -10,24 +10,24 @@ header:
 excerpt: 'Learn and enjoy photography in Birmingham with Pete Ashton'
 feature_row:
   - image_path: https://i1.wp.com/www.photo-school.co.uk/wp-content/uploads/sites/13/2015/09/slider00006-830x550.jpg
-    alt: "customizable"
+    alt: "Beginners Photography"
     title: "Beginners Photography"
     excerpt: "Master the controls of your camera and learn how to take photos you can be proud of. No prior knowledge required!"
     url: "/beginners/"
     btn_class: "btn--primary"
     btn_label: "Learn More"
-  - image_path: /assets/images/mm-responsive-feature.png
-    alt: "fully responsive"
-    title: "Responsive Layouts"
-    excerpt: "Built on HTML5 + CSS3. All layouts are fully responsive with helpers to augment your content."
-    url: "/docs/layouts/"
+  - image_path: /assets/images/DSC9179-1080x675.jpg
+    alt: "Photo Walks"
+    title: "Photo Walks"
+    excerpt: "Explore the hidden corners of Birmingham through the safety and inspiration of a group photo walk."
+    url: "/walks/"
     btn_class: "btn--primary"
     btn_label: "Learn More"
-  - image_path: /assets/images/mm-free-feature.png
-    alt: "100% free"
-    title: "100% Free"
-    excerpt: "Free to use however you want under the MIT License. Clone it, fork it, customize it, whatever!"
-    url: "/docs/license/"
+  - image_path: https://i1.wp.com/www.photo-school.co.uk/wp-content/uploads/sites/13/2015/09/Horse-Photography-Workshop-07-1024x718.jpg
+    alt: "workshops"
+    title: "Workshops"
+    excerpt: "Extended classes with achievable outcomes tailored for your needs."
+    url: "workshops"
     btn_class: "btn--primary"
     btn_label: "Learn More"
 github:
