@@ -30,10 +30,9 @@ feature_row:
     url: "workshops"
     btn_class: "btn--primary"
     btn_label: "Learn More"
-github:
-  - excerpt: '{::nomarkdown}<iframe style="display: inline-block;" src="https://ghbtns.com/github-btn.html?user=mmistakes&repo=minimal-mistakes&type=star&count=true&size=large" frameborder="0" scrolling="0" width="160px" height="30px"></iframe> <iframe style="display: inline-block;" src="https://ghbtns.com/github-btn.html?user=mmistakes&repo=minimal-mistakes&type=fork&count=true&size=large" frameborder="0" scrolling="0" width="158px" height="30px"></iframe>{:/nomarkdown}'
 intro:
-  - excerpt: 'Get notified when I add new stuff &nbsp; [<i class="fab fa-twitter"></i> @mmistakes](https://twitter.com/mmistakes){: .btn .btn--twitter} [<i class="fab fa-paypal"></i> Tip Me](https://www.paypal.me/mmistakes){: .btn .btn--primary}'
+  - excerpt: 'Photo School has one core aim: to help you get control of your camera and take great photos.
+Photography is made up of many simple concepts that, when combined, can lead to frustration and confusion. By breaking them down and having them explained in simple terms you, too, can take photos you can be proud of.'
 ---
 
 {% include feature_row id="intro" type="center" %}
