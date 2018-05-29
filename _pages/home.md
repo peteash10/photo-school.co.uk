@@ -1,0 +1,40 @@
+---
+layout: splash
+permalink: /
+header:
+  overlay_color: "#5e616c"
+  overlay_image: /assets/images/header-white-1080x596.jpg
+  # cta_label: "<i class='fas fa-download'></i> Install Now"
+  # cta_url: "/docs/quick-start-guide/"
+  caption:
+excerpt: 'Learn and enjoy photography in Birmingham with Pete Ashton'
+feature_row:
+  - image_path: https://i1.wp.com/www.photo-school.co.uk/wp-content/uploads/sites/13/2015/09/slider00006-830x550.jpg
+    alt: "Beginners Photography"
+    title: "Beginners Photography"
+    excerpt: "Master the controls of your camera and learn how to take photos you can be proud of. No prior knowledge required!"
+    url: "/beginners-photography/"
+    btn_class: "btn--primary"
+    btn_label: "Learn More"
+  - image_path: /assets/images/DSC9179-1080x675.jpg
+    alt: "Photo Walks"
+    title: "Photo Walks"
+    excerpt: "Explore the hidden corners of Birmingham through the safety and inspiration of a group photo walk."
+    url: "/walks/"
+    btn_class: "btn--primary"
+    btn_label: "Learn More"
+  - image_path: https://i1.wp.com/www.photo-school.co.uk/wp-content/uploads/sites/13/2015/09/Horse-Photography-Workshop-07-1024x718.jpg
+    alt: "workshops"
+    title: "Workshops"
+    excerpt: "Extended classes with achievable outcomes tailored for your needs."
+    url: "photography-workshops"
+    btn_class: "btn--primary"
+    btn_label: "Learn More"
+intro:
+  - excerpt: 'Photo School has one core aim: to help you get control of your camera and take great photos.
+Photography is made up of many simple concepts that, when combined, can lead to frustration and confusion. By breaking them down and having them explained in simple terms you, too, can take photos you can be proud of.'
+---
+
+{% include feature_row id="intro" type="center" %}
+
+{% include feature_row %}

@@ -1,0 +1,20 @@
+# main links
+main:
+  - title: "Home"
+    url: /
+  - title: "Beginners"
+    url: /beginners-photography/
+  - title: "Tuition"
+    url: /personal-tuition/
+  - title: "Workshops"
+    url: /photography-workshops/
+  - title: "Walks"
+    url: /walks/
+  - title: "About"
+    url: /about-photo-school/
+  - title: "Vouchers"
+    url: /gift-vouchers/
+  - title: "Contact"
+    url: /contact/
+
+
