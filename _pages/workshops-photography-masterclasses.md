@@ -29,4 +29,4 @@ Ikon’s show was [a retrospective of Norwegian artist AK Dolven](http://ikon-ga
 
 We gathered together a variety of glass and plastic objects to put in front of our lenses and figured out how to override the focus, unlearning a lot of the rules of photography and stretching how we thought about composition and “perfection” in photography.
 
-{% include pricing.html %}
+{% include pricing.md %}

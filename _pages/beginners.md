@@ -9,9 +9,6 @@ header:
   overlay_image: /assets/images/slider000061.jpg
 excerpt: 'Teaching beginners is at the heart of how I run Photo School.'
 
-
-
-
 ---
 
 Learning how to use your camera to make beautiful images can seem daunting. So many buttons and so much confusing jargon. Where to start?
@@ -43,32 +40,7 @@ You will also have a grounding in composition – simple tricks to make your pho
 
 **If you have voucher or credit**, please [get in touch](http://photo-school.co.uk/contact/) before booking.
 
-### June 17th
-
-Stirchley, 12-5pm  
-[**Book Now**](https://ti.to/photo-school/beginners-photography-stirchley-june-17)
-
-### September 16th
-
-Stirchley, 12-5pm  
-[**Book Now**](https://ti.to/photo-school/beginners-photography-stirchley-sept-18)
-
-### October 14th
-
-Stirchley, 12-5pm  
-[**Book Now**](https://ti.to/photo-school/beginners-photography-stirchley-oct-18)
-
-### November 11th
-
-Stirchley, 12-5pm  
-[**Book Now**](https://ti.to/photo-school/beginners-photography-stirchley-nov-18)
-
-### December 9th
-
-Stirchley, 12-5pm  
-[**Book Now**](https://ti.to/photo-school/beginners-photography-stirchley-dec-18)
-
-### Next...
+{% include upcoming-classes.md %}
 
 Classes run monthly from September to July and are announced via the Photo School newsletter:
 

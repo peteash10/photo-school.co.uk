@@ -26,4 +26,4 @@ I have personally found these workshops incredibly rewarding and am very interes
 
 *(Photo taken at a different workshop due to the sensitive nature of these sessions.)*
 
-{% include pricing.html %}
+{% include pricing.md %}

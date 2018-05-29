@@ -1,8 +1,8 @@
 ---
 layout: splash
+title: "Photo School, Birmingham"
 permalink: /
 header:
-  overlay_color: "#5e616c"
   overlay_image: /assets/images/slider00003.jpg
   # cta_label: "<i class='fas fa-download'></i> Install Now"
   # cta_url: "/docs/quick-start-guide/"

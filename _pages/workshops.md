@@ -75,4 +75,4 @@ Bespoke classes offered as part of your programme.
 <a href="/beginners-photography/" class="btn btn--primary">More Info</a>
 
 
-{% include pricing.html %}
+{% include pricing.md %}

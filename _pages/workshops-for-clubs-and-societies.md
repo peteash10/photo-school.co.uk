@@ -52,4 +52,4 @@ I ran three lunchtimes sessions geared towards composition, culminating in a gui
 <a href="/contact/" class="btn btn--primary">Get in touch</a>
 
 
-{% include pricing.html %}
+{% include pricing.md %}
