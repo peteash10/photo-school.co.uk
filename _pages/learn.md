@@ -1,10 +1,10 @@
 ---
 layout: single
 toc: true
-toc_label: Photography Classes
+toc_label: Learn Photography
 toc_icon: camera
-title: "Photography Classes"
-permalink: /photography-classes/
+title: "Learn Photography"
+permalink: /learn/
 header:
   overlay_image: /assets/images/classroom.jpg
 excerpt: 'Learning how to use your camera to make beautiful images can seem daunting. So many buttons and so much confusing jargon. Where to start?'
