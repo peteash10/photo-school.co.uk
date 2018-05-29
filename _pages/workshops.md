@@ -21,7 +21,7 @@ I start with a class-based lesson introducing myself and setting the theme, foll
 
 All workshops are tailored to your specific requirements and I am always open to ideas and new challenges.
 
-<a href="/contact/" class="btn btn--primary">Get in touch</a>
+<a href="contact/" class="btn btn--primary">Get in touch</a>
 
 ## Workshop Packages
 
@@ -35,7 +35,7 @@ Improve the standard of photography in your group, or set up a photo club at you
 - A one-day workshop, based at your usual venue, adapted from my Beginners course but tailored to your subject matter.
 - Alternatively, a series of lunchtime sessions at your place of work with the aim of setting up a self-running photography society.
 
-<a href="/photography-workshops/workshops-for-clubs-and-societies/" class="btn btn--primary">More Info</a>
+<a href="photography-workshops/workshops-for-clubs-and-societies/" class="btn btn--primary">More Info</a>
  
 ![](http://i1.wp.com/www.photo-school.co.uk/wp-content/uploads/sites/13/2013/08/3-1080x675.jpg)
   
