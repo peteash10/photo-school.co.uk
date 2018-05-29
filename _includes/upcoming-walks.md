@@ -1,17 +1,20 @@
 ## Upcoming Walks
 
-Jun 3: <strong>Digbeth</strong><br>
-Jul 1: <strong>Spaghetti Junction</strong><br>
-Sep tba: <strong>Digbeth</strong><br>
-Oct tba: <strong>Spaghetti Junction</strong><br>
-Nov tba: <strong>Digbeth</strong><br>
-Nov tba: <strong>City at Night</strong><br>
-Dec tba: <strong>City at Night</strong>
+Walk | Date | Book
+-----|-----|-----
+Digbeth | Jun 3 | <a href="https://ti.to/photo-school/birmingham-photo-walks" class="btn btn--primary">Book Now</a>
+Spaghetti Junction | Jul 1 | <a href="https://ti.to/photo-school/birmingham-photo-walks" class="btn btn--primary">Book Now</a>
+Digbeth | Sep | tba
+Spaghetti Junction | Oct | tba
+Digbeth | Nov | tba
+City at Night | Nov | tba
+City at Night | Dec | tba
 
-<p></p><p style="display:none;">Sep 2: <strong>Digbeth</strong><br>
-Oct 7: <strong>Spaghetti Junction</strong><br>
-Nov 4: <strong>Digbeth</strong><br>
-Nov 13: <strong>City at Night</strong><br>
-Dec 4: <strong>City at Night</strong></p>
 
-<a href="https://ti.to/photo-school/birmingham-photo-walks" class="btn btn--primary">Book Tickets</a>
+<div style="display:none;">
+Digbeth | Sep 2 | tba
+Spaghetti Junction | Oct 7 | tba
+Digbeth | Nov 4 | tba
+City at Night | Nov 13 | tba
+City at Night | Dec 4 | tba
+</div>
