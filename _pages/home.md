@@ -3,13 +3,13 @@ layout: splash
 permalink: /
 header:
   overlay_color: "#5e616c"
-  overlay_image: /assets/images/header-white-1080x596.jpg
+  overlay_image: /assets/images/slider00003.jpg
   # cta_label: "<i class='fas fa-download'></i> Install Now"
   # cta_url: "/docs/quick-start-guide/"
   caption:
 excerpt: 'Learn and enjoy photography in Birmingham with Pete Ashton'
 feature_row:
-  - image_path: https://i1.wp.com/www.photo-school.co.uk/wp-content/uploads/sites/13/2015/09/slider00006-830x550.jpg
+  - image_path: /assets/images/slider00006-830x550.jpg
     alt: "Beginners Photography"
     title: "Beginners Photography"
     excerpt: "Master the controls of your camera and learn how to take photos you can be proud of. No prior knowledge required!"
@@ -23,18 +23,32 @@ feature_row:
     url: "/walks/"
     btn_class: "btn--primary"
     btn_label: "Learn More"
-  - image_path: https://i1.wp.com/www.photo-school.co.uk/wp-content/uploads/sites/13/2015/09/Horse-Photography-Workshop-07-1024x718.jpg
+  - image_path: /assets/images/Horse-Photography-Workshop-07-1024x718.jpg
     alt: "workshops"
     title: "Workshops"
     excerpt: "Extended classes with achievable outcomes tailored for your needs."
     url: "photography-workshops"
     btn_class: "btn--primary"
     btn_label: "Learn More"
-intro:
-  - excerpt: 'Photo School has one core aim: to help you get control of your camera and take great photos.
-Photography is made up of many simple concepts that, when combined, can lead to frustration and confusion. By breaking them down and having them explained in simple terms you, too, can take photos you can be proud of.'
+pete:
+  - image_path: /assets/images/14562629148_a0551cd2cc_o.jpg
+    alt: "Pete Ashton"
+    title: "About Pete"
+    excerpt: "Photo School is run by Pete Ashton, an established Birmingham artist, photographer and trainer.<br><br>
+Pete has been teaching photography through Photo School since 2012. He specialises in teaching beginners and particularly enjoys the challenge of explaining complex concepts in simple terms."
+    url: "about"
+    btn_class: "btn--primary"
+    btn_label: "More about Pete"
+
 ---
 
-{% include feature_row id="intro" type="center" %}
+# About Photo School
+
+Photo School has one core aim: to help you get control of your camera and take great photos.
+
+Photography is made up of many simple concepts that, when combined, can lead to frustration and confusion. By breaking them down and having them explained in simple terms you, too, can take photos you can be proud of.
+
+
+{% include feature_row id="pete" type="left" %}
 
 {% include feature_row %}

@@ -249,3 +249,8 @@ defaults:
       comments: # true
       share: false
       related: false
+      header:
+       overlay_filter: 0.3
+
+
+
