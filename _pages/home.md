@@ -4,16 +4,13 @@ title: "Photo School, Birmingham"
 permalink: /
 header:
   overlay_image: /assets/images/slider00003.jpg
-  # cta_label: "<i class='fas fa-download'></i> Install Now"
-  # cta_url: "/docs/quick-start-guide/"
-  caption:
 excerpt: 'Learn and enjoy photography in Birmingham with Pete Ashton'
 feature_row:
   - image_path: /assets/images/slider00006-830x550.jpg
-    alt: "Beginners Photography"
-    title: "Beginners Photography"
-    excerpt: "Master the controls of your camera and learn how to take photos you can be proud of. No prior knowledge required!"
-    url: "/beginners-photography/"
+    alt: "Classroom"
+    title: "Learn"
+    excerpt: "Master your camera and learn to take photos you can be proud of. Specialising in helping beginners understand the basics."
+    url: "/learn/"
     btn_class: "btn--primary"
     btn_label: "Learn More"
   - image_path: /assets/images/DSC9179-1080x675.jpg
@@ -25,9 +22,9 @@ feature_row:
     btn_label: "Learn More"
   - image_path: /assets/images/Horse-Photography-Workshop-07-1024x718.jpg
     alt: "workshops"
-    title: "Workshops"
-    excerpt: "Extended classes with achievable outcomes tailored for your needs."
-    url: "photography-workshops"
+    title: "Commission"
+    excerpt: "Photography workshops and events for your group or organisation, tailored to your specific needs."
+    url: "/commission"
     btn_class: "btn--primary"
     btn_label: "Learn More"
 pete:
@@ -36,7 +33,7 @@ pete:
     title: "About Pete"
     excerpt: "Photo School is run by Pete Ashton, an established Birmingham artist, photographer and trainer.<br><br>
 Pete has been teaching photography through Photo School since 2012. He specialises in teaching beginners and particularly enjoys the challenge of explaining complex concepts in simple terms."
-    url: "about"
+    url: "/about-photo-school"
     btn_class: "btn--primary"
     btn_label: "More about Pete"
 

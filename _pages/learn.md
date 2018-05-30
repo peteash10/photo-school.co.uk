@@ -20,35 +20,46 @@ My goals, as a teacher, are to:
 * Make sure you’re not overwhelmed – I just teach what’s needed.
 * Give you a foundation of basic knowledge, which you can build on later at your own pace.
 
-## Upcoming Classes
+## Personal Tuition
+
+<a href="/personal-tuition" class="btn btn--primary">More info</a>
+
+# Upcoming Classes
 
 {% include upcoming-classes.md %}
 
-## Beginners Course
+Buying for someone else? [Gift Vouchers are available](/gift-vouchers). 
+
+## Beginners Photography
 
 <a href="/beginners-photography" class="btn btn--primary">More info</a>
 
-## Bespoke Workshops
+## Intermediate	Photography
 
-<a href="/photography-workshops/" class="btn btn--primary">More info</a>
+<a href="/intermediate-photography" class="btn btn--primary">More info</a>
 
 ## Lightroom Basics
 
+<a href="/lightroom" class="btn btn--primary">More info</a>
+
+## City at Night
+
+<a href="/city-at-night" class="btn btn--primary">More info</a>
 
 
 ## Product Photography
 
-
+<a href="/product-photography" class="btn btn--primary">More info</a>
 
 ## Street Photography
 
-
+<a href="/street-photography" class="btn btn--primary">More info</a>
 
 ## Light Painting
 
+<a href="/light-painting" class="btn btn--primary">More info</a>
 
+## Bespoke Workshops
 
-## City at Night
-
-
+<a href="/photography-workshops/" class="btn btn--primary">More info</a>
 
