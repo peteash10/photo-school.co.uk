@@ -20,11 +20,9 @@ My goals, as a teacher, are to:
 * Make sure you’re not overwhelmed – I just teach what’s needed.
 * Give you a foundation of basic knowledge, which you can build on later at your own pace.
 
-## Personal Tuition
-
-<a href="/personal-tuition" class="btn btn--primary">More info</a>
-
 # Upcoming Classes
+
+These are all the learning events I have coming up. To be notified of new classes, [subscribe to the newsletter](/newsletter)
 
 {% include upcoming-classes.md %}
 
@@ -32,34 +30,56 @@ Buying for someone else? [Gift Vouchers are available](/gift-vouchers).
 
 ## Beginners Photography
 
+Developed and refined over five years, Beginners Photography is at the heart of Photo School. My one-day class will see you understanding the fundamentals and set you up to continue learning in your own way. 
+
 <a href="/beginners-photography" class="btn btn--primary">More info</a>
 
+## Personal Tuition
+
+If learning in a class doesn’t appeal to you or you’re after something quite specific, I can offer personal tuition. A chat in a cafe, a bespoke one-on-one class, an afternoon out taking photographs or something else entirely!
+
+<a href="/personal-tuition" class="btn btn--primary">More info</a>
+
+
 ## Intermediate	Photography
+
+New for 2018, a series of short evening classes looking at camera functions and compositional techniques. 
 
 <a href="/intermediate-photography" class="btn btn--primary">More info</a>
 
 ## Lightroom Basics
 
+Adobe's [Lightroom Classic](https://www.adobe.com/uk/products/photoshop-lightroom-classic.html) is the industry standard for processing digital photographs but it has a steep learning curve. This new class follows the Beginners Photography model of understanding the hows and whys of this powerful piece of software. 
+
 <a href="/lightroom" class="btn btn--primary">More info</a>
 
 ## City at Night
 
+This winter photo walk attracts a lot of beginners, so I'm formally turning it into class for 2018/19. Learn how to shoot long exposures in Manual mode and start to appreciate the complexity of light. 
+
 <a href="/city-at-night" class="btn btn--primary">More info</a>
 
-
 ## Product Photography
+
+Aimed at eBay sellers and artist/makers wanting to document their work, this workshop introduces the portable photography studio and how to shoot small objects on a budget. 
 
 <a href="/product-photography" class="btn btn--primary">More info</a>
 
 ## Street Photography
 
+Henri Cartier Bresson is called the father of street photography. What can we learn from his search for the Decisive Moment? 
+
 <a href="/street-photography" class="btn btn--primary">More info</a>
 
 ## Light Painting
 
+Like City at Night, but indoors in controlled conditions, this playful workshop uses LEDs, strobes, lasers and other luminatons to create otherworldly visions. 
+
 <a href="/light-painting" class="btn btn--primary">More info</a>
 
 ## Bespoke Workshops
+
+All the above can be commissioned for your company, organisation or club. I'm also interested in developing new ways to teach photography and use cameras in a creative way. Can we work together?
 
 <a href="/photography-workshops/" class="btn btn--primary">More info</a>
 

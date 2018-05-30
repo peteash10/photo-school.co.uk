@@ -102,15 +102,15 @@ analytics:
 author:
   name             : # "Photo School, Birmingham"
   avatar           : "/assets/images/pslogo_500.png"
-  bio              : "Photo School is run by Pete Ashton in Birmingham, UK. Call me on <a href='tel:0777569106'>07775 69106</a> or email <a href='mailto:info@photo-school.co.uk'>info@photo-school.co.uk</a> if you have any questions."
+  bio              : "Photo School is run by Pete Ashton in Birmingham, UK."
   location         : 
-  email            : info@photo-school.co.uk
+  email            : # info@photo-school.co.uk
   flickr           : 
   instagram        : 
   tumblr           :
   twitter          : 
   youtube          : # "https://youtube.com/c/MichaelRoseDesign"
-
+  home             : /
 
 # Reading Files
 include:
@@ -252,6 +252,7 @@ defaults:
       header:
        overlay_filter: 0.3
        overlay_color: "#5e616c"
-
+      sidebar:
+       nav: "nav"
 
 
