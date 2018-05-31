@@ -51,6 +51,15 @@ This 3 hour Night Walk takes in the buildings, canals and roadways of central Bi
 
 *** 
 
+## Jewellery Quarter
+
+{% include figure image_path="assets/images/jqheritagemap.png" alt="Jewellery Quarter Industrial Middle" %}
+
+A new walk, devised with the [Jewellery Quarter Townscape Heritage](https://jewelleryquarter.net/townscape-heritage/) project, that focusses on the network of streets between Warstone Lane and Graham Street. The first walks, during Birmingham Herigate Week, are free. Subsequent walks will be run by me for the usual cost.  
+ 
+<a href="/jewellery-quarter" class="btn btn--primary">More info</a>
+
+*** 
 
 ## One Year Photo Walk Pass
 
