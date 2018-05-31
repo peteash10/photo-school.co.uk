@@ -17,7 +17,7 @@ Photo School is the educational side of what I do. I’m an artist based in Birm
 
 I have found that explaining photography to people brings great clarity to my understanding of cameras and hugely benefits my art. In turn, through exploring the fundamentals of the medium in my art I am able to bring multiple and fresh approaches to my teaching, so if one explanation doesn’t work for you I’m able to try another.
 
-![](http://i2.wp.com/photo-school.co.uk/wp-content/uploads/sites/13/2012/04/8216663059_ac4f8d4c1b_b.jpg?w=1080)
+![](/assets/images/8216663059_ac4f8d4c1b_b.jpg)
 
 ## About Pete Ashton
 
@@ -33,9 +33,7 @@ That’s why I call myself an artist who works primarily with cameras. And it’
 
 Now, unless you hire me as an Artist, it’s unlikely any of this will come into my Photo School work. But it’s always there, fuelling my curiosity and fascination with how people figure out how to create with their camera, and my desire to help my students get there.
 
-![](http://i1.wp.com/www.photo-school.co.uk/wp-content/uploads/sites/13/2012/04/6953535655_c6dd47f141_b1.jpg?w=1080)
-
-*One of our first classes in early 2012.*
+{% include figure image_path="/assets/images/6953535655_c6dd47f141_b1.jpg" caption="One of our first classes in early 2012." %}
 
 ## How it all started
 
@@ -46,3 +44,5 @@ So we ran a class, using [Cartier-Bresson](https://en.wikipedia.org/wiki/Henri_C
 After a couple of years Matt got a teaching job at a real school, so I took on the bulk of Photo School, merging its development with my emerging artist practice. Photo School is now an extension of me, but would be nothing without Matt’s hard work in those first years. His influence runs through everything I do like letters in rock-candy.
 
 From the outset Photo School was designed to keep costs to a minimum and to pay us a decent wage. Where possible we traded favours and services for venue space and haven’t spent anything on marketing or advertising, relying on word-of-mouth and Internet searches. Photo School is a slow-build enterprise, intended to be sustainable by growing within its means.
+
+{% include figure image_path="/assets/images/classroom.jpg" caption="A Beginners class in 2018." %}

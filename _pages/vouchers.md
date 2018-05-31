@@ -54,23 +54,5 @@ If you were given a £30 or £35 voucher back when the Beginners course was shor
 
 If you're going to attend at least three of [my photo walks](/walks/), this is for you. For **£35** you'll be issued with a Discount Code valid for one year, starting on the date of your chosing.
 
-Needless to say, this makes a perfect gift!
+<a href="/walks-pass" class="btn btn--primary">More info</a>
 
-It does come with some conditions, which I may update as loopholes reveal themselves:
-
-* It's only valid for one person. If you want bring a friend they need to pay.
-* It's not transferable. Your friend cannot use it in your place.
-* The pass is valid for walks listed on this page only.
-This is a very small operation and I will spot any monkey business which will see me cancel your pass and, more importantly, be very annoyed and upset.
-
-**Is it worth it?**
-
-Every walk I run is different. The weather, people, buildings, everything changes over time and I always feel I'm seeing the area afresh.
-
-I also get bored and want to mix things up, trying new routes or checking out a new place I've heard about. While I'll often hit the same landmarks the journey between them will always be new.
-
-In 2017, when I had a lot of other committments, I ran 10 walks. As of January 2018 I have 14 walks scheduled through to December. If time permits I hope to develop new walks in Birmingham (city centre and Jewellery Quarter) on top of these.
-
-[Buy it now for £35](https://ti.to/photo-school/birmingham-photo-walks/with/rvgtakykxj4)
-
-![](https://i1.wp.com/photo-school.co.uk/wp-content/uploads/sites/13/2012/03/16354541061_01e3eabf3c_o-copy.jpg?w=1080)

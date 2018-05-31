@@ -1,11 +1,10 @@
 ---
 layout: single
 author_profile: true
-toc: false
-toc_label: On this page
-toc_icon: file-alt
 title: "Contact Photo School"
 permalink: /contact/
+header:
+  overlay_image: /assets/images/duskcity.jpg
 ---
 
 

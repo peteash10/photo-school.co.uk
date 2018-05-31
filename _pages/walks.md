@@ -27,7 +27,7 @@ All cameras and levels of experience are welcome. I've even had people come with
 
 ## Digbeth
 
-{% include figure image_path="assets/images/slider000011-1024x678.jpg" alt="Digbeth" %}
+[![](/assets/images/slider000011-1024x678.jpg)](/digbeth)
 
 The classic two hour Digbeth walk weaving through the back streets, canals and hinterlands of this mysterious place. We take in (subject to the route) monolithic railway architecture, graffitied buildings, light industry, canals, artist studios, victorian urinals, repurposed factories, forgotten cathedrals, spectacular city views, neo-pagan stone circles and the mysterious terminating viaduct.
 
@@ -35,7 +35,7 @@ The classic two hour Digbeth walk weaving through the back streets, canals and h
 
 ## Spaghetti Junction
 
-{% include figure image_path="/assets/images/spagwalkers.jpg" alt="Spaghetti Junction" %}
+[![](/assets/images/spagwalkers.jpg)](/spaghetti-junction)
 
 Spaghetti Junction comprises two railway lines, two rivers, three canals and 13.5 miles of motorway. Underneath the monolithic flyovers is a unique landscape which the thousands of drivers who use it every day never see, from the calm of Salford Reservoir to the hidden forests under the concrete brutalism and noise of the flyover itself. The walk lasts 3 hours – bring a packed lunch and a flask. 
 
@@ -43,7 +43,7 @@ Spaghetti Junction comprises two railway lines, two rivers, three canals and 13.
 
 ## City at Night
 
-{% include figure image_path="assets/images/16138005618_9a8a0752b3_o-copy1.jpg" alt="City at Night" %}
+[![](/assets/images/16138005618_9a8a0752b3_o-copy1.jpg)](/city-at-night)
 
 This 3 hour Night Walk takes in the buildings, canals and roadways of central Birmingham with an emphasis on tripods and long exposures. If you’re a complete novice Pete will be on hand to show you how to shoot in Manual and use your tripod effectively. If you’re an expert you can benefit from safety in numbers. 
  
@@ -53,7 +53,7 @@ This 3 hour Night Walk takes in the buildings, canals and roadways of central Bi
 
 ## Jewellery Quarter
 
-{% include figure image_path="assets/images/jqheritagemap.png" alt="Jewellery Quarter Industrial Middle" %}
+[![](/assets/images/jqsquare.jpg)](/jewellery-quarter)
 
 A new walk, devised with the [Jewellery Quarter Townscape Heritage](https://jewelleryquarter.net/townscape-heritage/) project, that focusses on the network of streets between Warstone Lane and Graham Street. The first walks, during Birmingham Herigate Week, are free. Subsequent walks will be run by me for the usual cost.  
  
@@ -65,25 +65,7 @@ A new walk, devised with the [Jewellery Quarter Townscape Heritage](https://jewe
 
 If you're going to attend at least three of my photo walks, this is for you. For **£35** you'll be issued with a Discount Code valid for one year, starting on the date of your chosing.
 
-Needless to say, this makes a perfect gift!
-
-It does come with some conditions, which I may update as loopholes reveal themselves:
-
-* It's only valid for one person. If you want bring a friend they need to pay.
-* It's not transferable. Your friend cannot use it in your place.
-* The pass is valid for walks listed on this page only.
-This is a very small operation and I will spot any monkey business which will see me cancel your pass and, more importantly, be very annoyed and upset.
-
-**Is it worth it?**
-
-Every walk I run is different. The weather, people, buildings, everything changes over time and I always feel I'm seeing the area afresh.
-
-I also get bored and want to mix things up, trying new routes or checking out a new place I've heard about. While I'll often hit the same landmarks the journey between them will always be new.
-
-In 2017, when I had a lot of other committments, I ran 10 walks. In January 2018 I had 14 walks scheduled through to December, with plans to develop new walks in Birmingham on top of them.
-
-
-<a href="https://ti.to/photo-school/birmingham-photo-walks/with/rvgtakykxj4" class="btn btn--primary">Buy it now for £35</a>
+<a href="/walks-pass" class="btn btn--primary">More info</a>
 
 ***
 
