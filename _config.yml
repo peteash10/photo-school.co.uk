@@ -250,7 +250,7 @@ defaults:
       share: false
       related: false
       header:
-       overlay_filter: 0.3
+       overlay_filter: 0.5
        overlay_color: "#5e616c"
       sidebar:
        nav: "nav"

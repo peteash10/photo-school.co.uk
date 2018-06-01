@@ -4,6 +4,9 @@ author_profile: true
 toc: true
 toc_label: On this page
 toc_icon: camera
+header:
+  overlay_image: /assets/images/suffolkflowers.jpg
+excerpt: 'Bring Photo School to your business, club or organisation.'
 title: "Bespoke Packages"
 permalink: /commission/
 ---
