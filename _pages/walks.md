@@ -19,7 +19,7 @@ excerpt: 'Photo Walks are about slowing down and really looking at the details o
 
 More a meander than an exercising walk, Photo Walks usually cover a mile in 90 minutes mixing in a bit of local history, myths, legends and tall stories. While not a formal workshop, I'm always on hand to offer advice and help you get the most out of your camera.
 
-All cameras and levels of experience are welcome. I've even had people come without a camera for the experience of looking at the Birmingham in new ways.
+All cameras and levels of experience are welcome. I've even had people come without a camera for the experience of looking at Birmingham in new ways.
 
 {% include upcoming-walks.md %}
 
