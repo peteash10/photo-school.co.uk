@@ -6,7 +6,7 @@ main:
     url: /learn/
   - title: "Walks"
     url: /walks/
-  - title: "Commission"
+  - title: "Packages"
     url: /commission/
   - title: "Vouchers"
     url: /gift-vouchers/
@@ -18,9 +18,9 @@ main:
 
 nav:
   - children:
-      - title: 07775 690106
+      - title: T 07775 690106
         url: tel:07775690106
-      - title: info@photo-school.co.uk
+      - title: E info@photo-school.co.uk
         url: mailto:info@photo-school.co.uk
   - children:
       - title: "Home"
@@ -29,7 +29,7 @@ nav:
         url: /learn/
       - title: "Walks"
         url: /walks/
-      - title: "Commission"
+      - title: "Packages"
         url: /commission/
       - title: "About"
         url: /about-photo-school/

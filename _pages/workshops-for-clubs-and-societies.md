@@ -4,7 +4,7 @@ toc: true
 toc_label: Photography Workshops
 toc_icon: users
 title: "Workshops for Clubs and Societies"
-permalink: /photography-workshops/workshops-for-clubs-and-societies/
+permalink: /workshops-for-clubs-and-societies/
 header:
   overlay_image: https://i0.wp.com/www.photo-school.co.uk/wp-content/uploads/sites/13/2015/09/Horse-Photography-Workshop-07-1080x675.jpg?resize=1080%2C675
 excerpt: 'Improve the standard of photography in your group, or set up a photography club at your business.'

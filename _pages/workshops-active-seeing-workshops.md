@@ -4,7 +4,7 @@ toc: true
 toc_label: Active Seeing
 toc_icon: eye
 title: "Active Seeing Workshops"
-permalink: /photography-workshops/active-seeing-workshops/
+permalink: /active-seeing-workshops/
 header:
   overlay_image: https://i1.wp.com/www.photo-school.co.uk/wp-content/uploads/sites/13/2014/03/Photo-School-shooting-the-pub-tiles-1080x675.jpg
 excerpt: 'Exploring the moments before a photograph is taken to build awareness of the world and our place in it.'

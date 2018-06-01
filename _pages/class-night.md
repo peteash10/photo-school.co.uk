@@ -15,7 +15,7 @@ excerpt: 'Photo Walks are about slowing down and really looking at the details o
 
 
 ---
-This 3 hour Night Walk takes in the buildings, canals and roadways of central Birmingham with an emphasis on tripods and long exposures. If you’re a complete novice Pete will be on hand to show you how to shoot in Manual and use your tripod effectively. If you’re an expert you can benefit from safety in numbers. 
+This 3 hour walking workshop takes in the buildings, canals and roadways of central Birmingham with an emphasis on tripods and long exposures. If you’re a complete novice Pete will be on hand to show you how to shoot in Manual and use your tripod effectively. If you’re an expert you can benefit from safety in numbers. 
 
 *Tripods can be hired for £5.*
 

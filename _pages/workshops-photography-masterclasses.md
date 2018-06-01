@@ -4,7 +4,7 @@ toc: true
 toc_label: Masterclass
 toc_icon: graduation-cap
 title: "Photography Masterclasses"
-permalink: /photography-workshops/photography-masterclasses/
+permalink: /photography-masterclasses/
 header:
   overlay_image: https://i1.wp.com/www.photo-school.co.uk/wp-content/uploads/sites/13/2013/08/3-1080x675.jpg
 excerpt: 'A service for art galleries, museums and other cultural organisations.'

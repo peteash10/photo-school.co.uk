@@ -77,9 +77,9 @@ Like City at Night, but indoors in controlled conditions, this playful workshop 
 
 <a href="/light-painting" class="btn btn--primary">More info</a>
 
-## Bespoke Workshops
+## Bespoke Packages
 
 All the above can be commissioned for your company, organisation or club. I'm also interested in developing new ways to teach photography and use cameras in a creative way. Can we work together?
 
-<a href="/photography-workshops/" class="btn btn--primary">More info</a>
+<a href="/commission/" class="btn btn--primary">More information and examples</a>
 
