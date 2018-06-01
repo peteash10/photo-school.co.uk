@@ -13,3 +13,4 @@ Walk               | Date    | Price | Book
 [City at Night](/city-at-night)      | Dec 4   | £15   | tba
 [**Walk Pass**](/walks-pass)      | **One Year** | £35 | <a href="https://ti.to/photo-school/birmingham-photo-walks/with/rvgtakykxj4" class="btn btn--primary">Buy Now</a>
 
+**If you have a [voucher](/gift-vouchers/) or credit**, please [get in touch](/contact/) before booking.

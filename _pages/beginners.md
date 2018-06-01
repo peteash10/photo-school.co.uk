@@ -13,8 +13,6 @@ excerpt: 'Teaching beginners is at the heart of how I run Photo School.'
 
 Learning how to use your camera to make beautiful images can seem daunting. So many buttons and so much confusing jargon. Where to start?
 
-![](http://i0.wp.com/www.photo-school.co.uk/wp-content/uploads/sites/13/2013/08/17-400x284.jpg?resize=400%252C284)
-
 Over the years I’ve developed a technique for breaking it down to simple concepts which anyone can understand, and then building real knowledge about how they all fit together.
 
 My goals, as a teacher, are to:
@@ -24,43 +22,21 @@ My goals, as a teacher, are to:
 * Make sure you’re not overwhelmed – I just teach what’s needed to get started.
 * Give you a foundation of basic knowledge, which you can build on later at your own pace.
 
-## Beginners Course
+## The Class
 
-I teach my own Beginners Photography course in Birmingham.
-
-This is aimed at people who have bought a DSLR or similar camera with lots of functions and have no idea how to use it. No prior knowledge is assumed and there are no stupid questions!
+I've been teaching my own Beginners Photography class in Birmingham since 2012, aimed at people who have bought a DSLR or similar camera with lots of functions and have no idea how to use it. No prior knowledge is assumed and there are no stupid questions!
 
 By the end of it you will be able to shoot in an Advanced mode and control the brightness, focus and motion blur in your photos.
 
 You will also have a grounding in composition – simple tricks to make your photos more dramatic and aesthetically pleasing.
 
-## Forthcoming Beginners Classes
-
-**Stirchley** classes take place at [Loaf Cookery School](http://www.loafonline.co.uk/contact/) in South Birmingham.  Full venue details are on the booking pages.
-
-**If you have voucher or credit**, please [get in touch](http://photo-school.co.uk/contact/) before booking.
+{% include figure image_path="/assets/images/classroom.jpg" caption="A Beginners class in 2018." %}
 
 {% include upcoming-classes.md %}
 
-Classes run monthly from September to July and are announced via the Photo School newsletter:
+Beginners classes take place at [Loaf Cookery School](http://www.loafonline.co.uk/contact/) in Stirchley, South Birmingham. Full venue details are on the booking pages.
 
-[Subscribe](http://photo-school.co.uk/newsletter)
-
-
-
-## Bespoke Workshops
-
-Beginners Photography can be run almost anywhere and is flexible enough to be tailored for your specific needs.
-
-**Institutions**: Offer photography courses to your members and visitors.
-
-**Businesses**: Give your marketing staff the skills to document your activities more professionally with training workshops.
-
-**Clubs and Societies**: Let me show you how to photograph your passions at a professional standard.
-
-[See Workshops for more](http://photo-school.co.uk/photography-workshops/)
-
-![](http://i0.wp.com/www.photo-school.co.uk/wp-content/uploads/sites/13/2015/09/7676338394_0b52cb56dc_o-copy-1024x646.jpg?resize=1024%252C646)
+I run classes monthly from September to July. New dates are announced via the [Photo School newsletter](/contact).
 
 ## Why it works
 

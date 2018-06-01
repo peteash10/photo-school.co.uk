@@ -40,6 +40,14 @@ If learning in a class doesn’t appeal to you or you’re after something quite
 
 <a href="/personal-tuition" class="btn btn--primary">More info</a>
 
+## City at Night
+
+This winter photo walk attracts a lot of beginners, so I'm formally turning it into class for 2018/19. Learn how to shoot long exposures in Manual mode and start to appreciate the complexity of light. 
+
+<a href="/city-at-night" class="btn btn--primary">More info</a>
+
+
+<div style="display: none">
 
 ## Intermediate	Photography
 
@@ -52,12 +60,6 @@ New for 2018, a series of short evening classes looking at camera functions and 
 Adobe's [Lightroom Classic](https://www.adobe.com/uk/products/photoshop-lightroom-classic.html) is the industry standard for processing digital photographs but it has a steep learning curve. This new class follows the Beginners Photography model of understanding the hows and whys of this powerful piece of software. 
 
 <a href="/lightroom" class="btn btn--primary">More info</a>
-
-## City at Night
-
-This winter photo walk attracts a lot of beginners, so I'm formally turning it into class for 2018/19. Learn how to shoot long exposures in Manual mode and start to appreciate the complexity of light. 
-
-<a href="/city-at-night" class="btn btn--primary">More info</a>
 
 ## Product Photography
 
@@ -77,9 +79,17 @@ Like City at Night, but indoors in controlled conditions, this playful workshop 
 
 <a href="/light-painting" class="btn btn--primary">More info</a>
 
+</div> <!-- display none -->
+
 ## Bespoke Packages
 
-All the above can be commissioned for your company, organisation or club. I'm also interested in developing new ways to teach photography and use cameras in a creative way. Can we work together?
+My classes and worshops can be run almost anywhere and can be tailored for your specific needs.
+
+**Institutions**: Offer photography courses to your members and visitors.
+
+**Businesses**: Give your marketing staff the skills to document your activities more professionally with training workshops.
+
+**Clubs and Societies**: Let me show you how to photograph your passions at a professional standard.
 
 <a href="/commission/" class="btn btn--primary">More information and examples</a>
 

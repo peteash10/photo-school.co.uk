@@ -1,3 +1,5 @@
+## Upcoming Classes
+
 Class     | Date   | Price | Book
 ----------|--------|---------|------
 [Beginners](/beginners-photography/) | Jun 17 | £40 | <a href="https://ti.to/photo-school/[Beginners](/beginners-photography/)-photography-stirchley-june-17" class="btn btn--primary">Book</a>
@@ -8,3 +10,4 @@ Class     | Date   | Price | Book
 [City at Night](/city-at-night) | Dec 4 | £15 | tba
 [Beginners](/beginners-photography/) | Dec 9  | £40 | <a href="https://ti.to/photo-school/[Beginners](/beginners-photography/)-photography-stirchley-dec-18" class="btn btn--primary">Book</a>
 
+**If you have a [voucher](/gift-vouchers/) or credit**, please [get in touch](/contact/) before booking.

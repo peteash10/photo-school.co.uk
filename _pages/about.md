@@ -39,9 +39,9 @@ Now, unless you hire me as an Artist, it’s unlikely any of this will come into
 
 Photo School was started by myself and my friend [Matt Murtagh](https://twitter.com/mattmurtagh) in January 2012. We’d noticed that many of our friends were buying DLSR cameras with lots of functions but had no idea how to use them. The manuals were off-putting and they generally just left them on auto.
 
-So we ran a class, using [Cartier-Bresson](https://en.wikipedia.org/wiki/Henri_Cartier-Bresson) ’s approach to street photography as our framework, the upstairs of city centre pub as our classroom and the streets of central Birmingham as our workshop. Feedback was pretty good so we tweaked it, and ran it again, and again.
+So we ran a class, using [Cartier-Bresson](https://en.wikipedia.org/wiki/Henri_Cartier-Bresson) ’s approach to street photography as our framework, the upstairs of city centre pub as our classroom and the streets of central Birmingham as our workshop. Feedback was pretty good so we tweaked it, and ran it again, and again, forming the basis of today's [Beginners](/beginners-photography/) class.  
 
-After a couple of years Matt got a teaching job at a real school, so I took on the bulk of Photo School, merging its development with my emerging artist practice. Photo School is now an extension of me, but would be nothing without Matt’s hard work in those first years. His influence runs through everything I do like letters in rock-candy.
+After a couple of years Matt got a teaching job at a real school, so I took on the bulk of Photo School, merging its development with my artistic practice. Photo School is now an extension of me, but would be nothing without Matt’s hard work in those first years. His influence runs through everything I do like letters in rock-candy.
 
 From the outset Photo School was designed to keep costs to a minimum and to pay us a decent wage. Where possible we traded favours and services for venue space and haven’t spent anything on marketing or advertising, relying on word-of-mouth and Internet searches. Photo School is a slow-build enterprise, intended to be sustainable by growing within its means.
 
