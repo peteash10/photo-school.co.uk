@@ -11,6 +11,7 @@ excerpt: 'Learning how to use your camera to make beautiful images can seem daun
 
 ---
 
+
 Over the years I’ve developed a technique for breaking it down to simple concepts which anyone can understand, and then building real knowledge about how they all fit together.
 
 My goals, as a teacher, are to:
@@ -40,9 +41,16 @@ If learning in a class doesn’t appeal to you or you’re after something quite
 
 <a href="/personal-tuition" class="btn btn--primary">More info</a>
 
+## Lightroom Basics
+
+Adobe's [Lightroom Classic](https://www.adobe.com/uk/products/photoshop-lightroom-classic.html) is the industry standard for processing digital photographs but it has a steep learning curve. This new class follows the Beginners Photography model of understanding the hows and whys of this powerful piece of software. 
+
+<a href="/lightroom" class="btn btn--primary">More info</a>
+
+
 ## City at Night
 
-This winter photo walk attracts a lot of beginners, so I'm formally turning it into class for 2018/19. Learn how to shoot long exposures in Manual mode and start to appreciate the complexity of light. 
+This winter photo walk attracts a lot of beginners, so I'm formally turning it into class for 2018/19. Learn how to shoot long exposures in Manual mode and start to appreciate the complexity of artificial light. 
 
 <a href="/city-at-night" class="btn btn--primary">More info</a>
 
@@ -54,12 +62,6 @@ This winter photo walk attracts a lot of beginners, so I'm formally turning it i
 New for 2018, a series of short evening classes looking at camera functions and compositional techniques. 
 
 <a href="/intermediate-photography" class="btn btn--primary">More info</a>
-
-## Lightroom Basics
-
-Adobe's [Lightroom Classic](https://www.adobe.com/uk/products/photoshop-lightroom-classic.html) is the industry standard for processing digital photographs but it has a steep learning curve. This new class follows the Beginners Photography model of understanding the hows and whys of this powerful piece of software. 
-
-<a href="/lightroom" class="btn btn--primary">More info</a>
 
 ## Product Photography
 

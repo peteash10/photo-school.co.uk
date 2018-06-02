@@ -1,15 +1,13 @@
 ---
 layout: single
 toc: true
-toc_label: Photo Walks
+toc_label: City at Night
 toc_icon: walking
 title: "City at Night with Tripods"
 permalink: /city-at-night/
 header:
   overlay_image: /assets/images/16138005618_9a8a0752b3_o-copy1.jpg
-  cta_label: "Book a walk now <i class='fas fa-angle-double-right'></i>"
-  cta_url: "https://ti.to/photo-school/birmingham-photo-walks/"
-excerpt: 'Photo Walks are about slowing down and really looking at the details of the city while learning from being in a group.'
+excerpt: 'A photo walk and class in one, making beautiful images in challenging conditions. '
 
 
 
@@ -31,11 +29,13 @@ This 3 hour walking workshop takes in the buildings, canals and roadways of cent
 **Standard price:** £15
 
 
+{% include upcoming-classes.md %}
+
+
 {% include upcoming-walks.md %}
 
 ***
 
-{% include info-walks.md %}
 
 ## Photos from City at Night with Tripods
 
