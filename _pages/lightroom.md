@@ -30,7 +30,7 @@ This workshop will have you comfortable using Lightroom for basic tasks and able
 
 **Suitable for:** Beginners wanting to learn Lightroom Classic.
 
-**Requirements:** Laptop computer running Lightroom Classic required for practical sessions. 
+**Requirements:** Laptop computer running Lightroom Classic required for practical sessions, though you are very welcome to just watch and make notes. 
 
 **Frequency:** Occasional, on a Wednesday evening.
 

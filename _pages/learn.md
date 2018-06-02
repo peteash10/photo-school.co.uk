@@ -41,6 +41,12 @@ If learning in a class doesn’t appeal to you or you’re after something quite
 
 <a href="/personal-tuition" class="btn btn--primary">More info</a>
 
+## Intermediate	Photography
+
+New for 2018, a series of short evening classes looking at camera functions and compositional techniques. 
+
+<a href="/intermediate-photography" class="btn btn--primary">More info</a>
+
 ## Lightroom Basics
 
 Adobe's [Lightroom Classic](https://www.adobe.com/uk/products/photoshop-lightroom-classic.html) is the industry standard for processing digital photographs but it has a steep learning curve. This new class follows the Beginners Photography model of understanding the hows and whys of this powerful piece of software. 
@@ -57,11 +63,6 @@ This winter photo walk attracts a lot of beginners, so I'm formally turning it i
 
 <div style="display: none">
 
-## Intermediate	Photography
-
-New for 2018, a series of short evening classes looking at camera functions and compositional techniques. 
-
-<a href="/intermediate-photography" class="btn btn--primary">More info</a>
 
 ## Product Photography
 
