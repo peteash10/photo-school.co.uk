@@ -16,7 +16,7 @@ excerpt: >
 
 Lightroom is also a "workflow" application, designed to process and output batches of images quickly and efficiently. As such it's conceptually quite different to normal "load and save" programmes and can take some getting used to. 
 
-This three hour workshop will outline in simple terms how to approach Lighroom. We will cover:
+This three hour workshop will outline in simple terms how to approach Lightroom. We will cover:
 
 - The Lightroom workflow: importing, managing your library, processing images and exporting. 
 - The power of non-destructive editing. 
@@ -43,4 +43,4 @@ This workshop will have you comfortable using Lightroom for basic tasks and able
 
 
 ***
-**<small>Adobe have recently launched, and are agressively pushing, "Lightroom CC", a cloud-based, multi-platform image editing system which is seriously limited in funtionality and is not covered by this course.</small>*
+**<small>Adobe have recently launched, and are aggressively pushing, "Lightroom CC", a cloud-based, multi-platform image editing system which is seriously limited in functionality and is not covered by this course.</small>*

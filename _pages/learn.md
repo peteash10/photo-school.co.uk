@@ -77,7 +77,7 @@ Henri Cartier Bresson is called the father of street photography. What can we le
 
 ## Light Painting
 
-Like City at Night, but indoors in controlled conditions, this playful workshop uses LEDs, strobes, lasers and other luminatons to create otherworldly visions. 
+Like City at Night, but indoors in controlled conditions, this playful workshop uses LEDs, strobes, lasers and other luminations to create otherworldly visions. 
 
 <a href="/light-painting" class="btn btn--primary">More info</a>
 
@@ -85,7 +85,7 @@ Like City at Night, but indoors in controlled conditions, this playful workshop 
 
 ## Bespoke Packages
 
-My classes and worshops can be run almost anywhere and can be tailored for your specific needs.
+My classes and workshops can be run almost anywhere and can be tailored for your specific needs.
 
 **Institutions**: Offer photography courses to your members and visitors.
 
