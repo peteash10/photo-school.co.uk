@@ -2,7 +2,7 @@
 layout: single
 author_profile: true
 toc: true
-toc_label: On this page
+toc_label: Bespoke Packages
 toc_icon: camera
 header:
   overlay_image: /assets/images/suffolkflowers.jpg

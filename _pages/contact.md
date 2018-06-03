@@ -32,4 +32,4 @@ Everyone who attends a Photo School class is encouraged to post their photos to 
 
 ## Instagram
 
-If you come on a walk and post any pics to Instagram please use mention [@photoschoolbham](https://www.instagram.com/photoschoolbham/)!
+If you come on a walk and post any pics to Instagram please mention [@photoschoolbham](https://www.instagram.com/photoschoolbham/)!

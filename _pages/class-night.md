@@ -7,13 +7,13 @@ title: "City at Night with Tripods"
 permalink: /city-at-night/
 header:
   overlay_image: /assets/images/16138005618_9a8a0752b3_o-copy1.jpg
-excerpt: 'A photo walk and class in one, making beautiful images in challenging conditions. '
+excerpt: 'A Photo Walk and Class in one; making beautiful images in challenging conditions. '
 
 
 
 
 ---
-This 3 hour walking workshop takes in the buildings, canals and roadways of central Birmingham with an emphasis on tripods and long exposures. If you’re a complete novice Pete will be on hand to show you how to shoot in Manual and use your tripod effectively. If you’re an expert you can benefit from safety in numbers. 
+This three hour walking workshop takes in the buildings, canals and roadways of central Birmingham with an emphasis on tripods and long exposures. If you’re a complete novice Pete will be on hand to show you how to shoot in Manual and use your tripod effectively. If you’re an expert you can benefit from safety in numbers. 
 
 *Tripods can be hired for £5.*
 

@@ -9,7 +9,7 @@ feature_row:
   - image_path: /assets/images/slider00006-830x550.jpg
     alt: "Classroom"
     title: "Learn"
-    excerpt: "Master your camera and learn to take photos you can be proud of. Specialising in helping beginners understand the basics."
+    excerpt: "Master your camera and learn to take photos you can be proud of. Photo School specialises in helping beginners understand the basics."
     url: "/learn/"
     btn_class: "btn--primary"
     btn_label: "More about Learning"

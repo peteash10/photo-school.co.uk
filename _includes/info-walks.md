@@ -1,6 +1,6 @@
 ## What is a Photo Walk?
 
-More a meander than an exercising walk, Photo Walks usually cover a mile in 90 minutes mixing in a bit of local history, myths, legends and tall stories. While not a formal workshop, I'm always on hand to offer advice and help you get the most out of your camera.
+More a meander than a march, Photo Walks usually cover a mile in 90 minutes, mixing in a bit of local history, myths, legends and tall stories. While not a formal workshop, I'm always on hand to offer advice and help you get the most out of your camera.
 
 All cameras and levels of experience are welcome. I've even had people come without a camera for the experience of looking at the Birmingham in new ways.
 

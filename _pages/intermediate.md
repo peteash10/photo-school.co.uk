@@ -36,7 +36,7 @@ There are currently four classes. They stand alone and can be taken in any order
 
 - Exposure Values.
 - Metering for correct exposure.
-- What is White Balance, and does it matter? 
+- What is White Balance, and when does it matter? 
 - Bracketing and Continuous shooting.
 
 ## Intermediate: Composition
@@ -56,7 +56,7 @@ There are currently four classes. They stand alone and can be taken in any order
 
 **Venue:** [Artefact Cafe](https://www.artefactstirchley.co.uk), Stirchley [[map](https://goo.gl/maps/nMYw9rZ7ETL2)].
 
-**Standard price:** £10 per person.
+**Standard price:** £15 per person.
 
 
 {% include upcoming-classes.md %}

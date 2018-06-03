@@ -36,7 +36,7 @@ You will also have a grounding in composition – simple tricks to make your pho
 
 Beginners classes take place at [Loaf Cookery School](http://www.loafonline.co.uk/contact/) in Stirchley, South Birmingham. Full venue details are on the booking pages.
 
-I run classes monthly from September to July. New dates are announced via the [Photo School newsletter](/contact).
+I run classes monthly from September to July. New dates are announced via the [Photo School newsletter](/newsletter/).
 
 ## Why it works
 
@@ -44,6 +44,6 @@ While everyone learns differently, and no method is perfect, I’m really please
 
 My approach brings a solid knowledge of the science but uses this as a tool for expression, enabling you to start taking photographs that mean something to you and are pleasing to others, whether they be portraits, holiday snaps or documenting an event.
 
-The camera is more than a box for making pictures. It’s a device which helps us see the world in new ways, to communicate new ideas to each other. Photography (along with cinema) was arguably the art-form that defined the 20th century, and now, as cameras are in nearly every pocket and sharing photos on the internet can be done in seconds, that art-form is accessible to everyone.
+The camera is more than a box for making pictures. It’s a device which helps us see the world in new ways, to communicate new ideas to each other. Photography (along with cinema) was arguably the art-form that defined the 20th century, and now, as cameras are in nearly every pocket and sharing photos on the internet can be done in seconds, that art form is accessible to everyone.
 
 I remember when I first figured out the fundamentals of photography. It was October 2005, I was 33, and it’s safe to say it changed both my life and my relationship with the world. I want everyone to experience that transformative process, and that’s why I say Beginners Photography is at the heart of Photo School.

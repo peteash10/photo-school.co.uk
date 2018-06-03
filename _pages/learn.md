@@ -12,7 +12,7 @@ excerpt: 'Learning how to use your camera to make beautiful images can seem daun
 ---
 
 
-Over the years I’ve developed a technique for breaking it down to simple concepts which anyone can understand, and then building real knowledge about how they all fit together.
+Over the years I’ve developed a technique for breaking photography down to simple concepts which anyone can understand, and then building real knowledge about how they all fit together.
 
 My goals, as a teacher, are to:
 
@@ -23,7 +23,7 @@ My goals, as a teacher, are to:
 
 # Upcoming Classes
 
-These are all the learning events I have coming up. To be notified of new classes, [subscribe to the newsletter](/newsletter)
+These are the learning events I have coming up. To be notified of new classes, [subscribe to the newsletter](/newsletter)
 
 {% include upcoming-classes.md %}
 
@@ -37,19 +37,19 @@ Developed and refined over five years, Beginners Photography is at the heart of 
 
 ## Personal Tuition
 
-If learning in a class doesn’t appeal to you or you’re after something quite specific, I can offer personal tuition. A chat in a cafe, a bespoke one-on-one class, an afternoon out taking photographs or something else entirely!
+If learning in a class doesn’t appeal to you or you’re after something quite specific, I can offer personal tuition. A chat in a cafe, a bespoke one-on-one class, an afternoon out taking photographs or something else that suits your needs.
 
 <a href="/personal-tuition" class="btn btn--primary">More info</a>
 
 ## Intermediate	Photography
 
-New for 2018, a series of short evening classes looking at camera functions and compositional techniques. 
+New for 2018, a series of short classes looking at camera functions and compositional techniques. 
 
 <a href="/intermediate-photography" class="btn btn--primary">More info</a>
 
 ## Lightroom Basics
 
-Adobe's [Lightroom Classic](https://www.adobe.com/uk/products/photoshop-lightroom-classic.html) is the industry standard for processing digital photographs but it has a steep learning curve. This new class follows the Beginners Photography model of understanding the hows and whys of this powerful piece of software. 
+Adobe's [Lightroom Classic](https://www.adobe.com/uk/products/photoshop-lightroom-classic.html) is the industry standard for processing digital photographs but it has a steep learning curve. You'll understand the hows and whys of this powerful piece of software and be able to process your photos to another level.  
 
 <a href="/lightroom" class="btn btn--primary">More info</a>
 
@@ -90,7 +90,7 @@ My classes and workshops can be run almost anywhere and can be tailored for your
 
 **Institutions**: Offer photography courses to your members and visitors.
 
-**Businesses**: Give your marketing staff the skills to document your activities more professionally with training workshops.
+**Businesses**: Give your marketing team the skills to document your activities. Support staff 
 
 **Clubs and Societies**: Let me show you how to photograph your passions at a professional standard.
 
