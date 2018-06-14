@@ -92,7 +92,7 @@ social:
 
 # Analytics
 analytics:
-  provider               : "google-gtag"
+  provider               : "google"
   google:
     tracking_id          : UA-30876757-1
     anonymize_ip         : true
