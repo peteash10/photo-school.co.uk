@@ -47,3 +47,7 @@ Photography is made up of many simple concepts that, when combined, can lead to 
 {% include feature_row id="pete" type="left" %}
 
 {% include feature_row %}
+
+{% include upcoming-classes.md %}
+
+{% include upcoming-walks.md %}
