@@ -39,7 +39,7 @@ Pete has been teaching photography through Photo School since 2012. He specialis
 
 ---
 
-Photo School has one core aim: to help you get control of your camera and take great photos.
+Photo School has one simple goal: to help you get control of your camera and take great photos.
 
 Photography is made up of many simple concepts that, when combined, can lead to frustration and confusion. By breaking them down and having them explained in simple terms you, too, can take photos you can be proud of.
 
