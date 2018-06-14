@@ -21,17 +21,11 @@ I have found that explaining photography to people brings great clarity to my un
 
 ## About Pete Ashton
 
-I’m a [Birmingham-based artist](http://peteashton.com) who works primarily with cameras and photography. You cas see some of my work on my [art website](http://art.peteashton.com). I also co-run the [Birmingham Camera Obscura](http://bhamobscura.com) project with Jenny Duffin where we’re building and exploring 1000-year old cameras from before the invention of photography.
+I’m a Birmingham-based artist and you cas see some of my work on my [art website](http://art.peteashton.com). I also co-run the [Birmingham Camera Obscura](http://bhamobscura.com) project with Jenny Duffin where we’re building and exploring 1000-year old cameras from before the invention of photography.
 
-So it’s safe to say I’m pretty obsessed with cameras and think about them a lot, often in some quite strange ways.
+It’s safe to say I’m pretty obsessed with cameras and the images they make. I think about them a lot, often in some quite strange ways. There’s something wonderful about how a photo tells both truth and lies, illuminating the soul while eliminating the context. A little box that stores reflected light changed our world, and I don’t think we’ve really figured out what that means, especially as cameras become ubiquitous.
 
-Oddly, I’ve never felt comfortable calling myself a “Photographer”. That label harks to an age when photography was an elitist pursuit for those who could afford it. Nothing about that world appealed to me, and while I’ve dabbled in making limited edition prints and been an occasional wedding photographer, it was never for me.
-
-But I was always obsessed with cameras and the images they make. There’s something wonderful about how a photo tells both truth and lies, illuminating the soul while eliminating the context. A little box that stores reflected light changed our world, and I don’t think we’ve really figured out what that means, especially as cameras become ubiquitous.
-
-That’s why I call myself an artist who works primarily with cameras. And it’s why I’m not interested in selling prints or shooting your wedding!
-
-Now, unless you hire me as an Artist, it’s unlikely any of this will come into my Photo School work. But it’s always there, fuelling my curiosity and fascination with how people figure out how to create with their camera, and my desire to help my students get there.
+How does this affect Photo School? Mostly in that it continues to fuel my curiosity and fascination with how people figure out how to create with their camera – and my desire to help my students get there.
 
 {% include figure image_path="/assets/images/6953535655_c6dd47f141_b1.jpg" caption="One of our first classes in early 2012." %}
 
