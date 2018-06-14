@@ -7,7 +7,7 @@ main:
   - title: "Walks"
     url: /walks/
   - title: "Packages"
-    url: /commission/
+    url: /bespoke-photography-workshops/
   - title: "Vouchers"
     url: /gift-vouchers/
   - title: "About"
@@ -30,7 +30,7 @@ nav:
       - title: "Walks"
         url: /walks/
       - title: "Packages"
-        url: /commission/
+        url: /bespoke-photography-workshops/
       - title: "About"
         url: /about-photo-school/
       - title: "Contact"

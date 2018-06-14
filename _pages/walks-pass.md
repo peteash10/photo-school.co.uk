@@ -16,7 +16,7 @@ excerpt: 'Attend as many of my walks as you like for 12 months. Bargain!'
 
 ---
 
-If you're going to attend at least **three** of [my photo walks](/walks), this is for you. For **£35** you'll be issued with a Discount Code valid for one year, starting on the date of your chosing.
+If you're going to attend at least **three** of [my photo walks](/walks), this is for you. For **£35** you'll be issued with a Discount Code valid for one year, starting on the date of your choosing.
 
 Needless to say, this makes a perfect gift!
 
@@ -34,7 +34,7 @@ Every walk I run is different. The weather, people, buildings, everything change
 
 I also get bored and want to mix things up, trying new routes or checking out a new place I've heard about. While I'll often hit the same landmarks, the journey between them will always be new.
 
-In 2017, when I had a lot of other committments, I ran 10 walks. In January 2018 I scheduled 14 walks through to December, with plans to develop new walks in Birmingham on top of them.
+In 2017, when I had a lot of other commitments, I ran 10 walks. In January 2018 I scheduled 14 walks through to December, with plans to develop new walks in Birmingham on top of them.
 
 
 <a href="https://ti.to/photo-school/birmingham-photo-walks/with/rvgtakykxj4" class="btn btn--primary">Buy it now for £35</a>

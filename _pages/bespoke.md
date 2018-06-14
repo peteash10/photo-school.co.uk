@@ -8,7 +8,7 @@ header:
   overlay_image: /assets/images/suffolkflowers.jpg
 excerpt: 'Bring Photo School to your business, club or organisation.'
 title: "Bespoke Packages"
-permalink: /commission/
+permalink: /bespoke-photography-workshops/
 ---
 
 Photography classes and workshops can be tailored to your specific needs. On this page I've listed a few examples of packages I've delivered for groups, companies and cultural organisations. And if you have something else in mind I'm always interested in collaborating to develop new things. 
@@ -30,7 +30,7 @@ Improve the standard of photography in your group, or set up a photo club at you
 
 ![](/assets/images/3-1080x675.jpg)
 
-A service for cultural organisations, art galleries and museums.
+An audience engagement service for cultural organisations, art galleries and museums.
 
 - A full-day workshop using your exhibitions as an inspirational framework.
 - Have your audience creatively engage with your programme and develop their skills.
@@ -62,8 +62,11 @@ Beginners and other photography classes can be offered as part of your programme
 
 ## Photo Walks
 
-A photography walk can offer a different way to explore an area or an event and add something simple and effective to festival programming. 
+Bespoke walk devised in collaboration with yourself and run in my tried and tested "slow down and pay attention" way.  
 
-Bespoke walks are devised in collaboration with yourself and run in my tried and tested "slow down and pay attention" way.  
+- Offers a different way to explore an area or an event.
+- Adds something simple and effective to festival programming. 
 
 <a href="/walks/" class="btn btn--primary">More about Walks</a>
+
+{% include pricing.md %}

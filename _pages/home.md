@@ -24,7 +24,7 @@ feature_row:
     alt: "workshops"
     title: "Packages"
     excerpt: "Photography workshops and events for your group or organisation, tailored to your specific needs."
-    url: "/commission"
+    url: "/bespoke-photography-workshops"
     btn_class: "btn--primary"
     btn_label: "More about Packages"
 pete:
