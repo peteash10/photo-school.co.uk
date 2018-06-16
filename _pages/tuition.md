@@ -16,4 +16,4 @@ Personal tuition often appeals to people who have figured out enough about their
 
 **Basic tuition costs £35 per hour**, depending on location and requirements. A common package is £100 for three one hour sessions.
 
-To arrange some tuition please call 07775 690196, or email [info@photo-school.co.uk](mailto:info@photo-school.co.uk) with your requirements and I will get back to you.
+To arrange some tuition please call 07775 690196, or email [pete@peteashton.com](mailto:pete@peteashton.com) with your requirements and I will get back to you.

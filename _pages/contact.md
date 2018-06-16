@@ -11,7 +11,7 @@ header:
 
 If you have any enquiries about Photo School please feel contact Pete at the following:
 
-<strong>Email [info@photo-school.co.uk](mailto:info@photo-school.co.uk)</strong>
+<strong>Email [pete@peteashton.com](mailto:pete@peteashton.com)</strong>
 
 <strong>Call 07775 690 106</strong>
 

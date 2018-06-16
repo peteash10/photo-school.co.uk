@@ -20,8 +20,8 @@ nav:
   - children:
       - title: T 07775 690106
         url: tel:07775690106
-      - title: E info@photo-school.co.uk
-        url: mailto:info@photo-school.co.uk
+      - title: E pete@peteashton.com
+        url: mailto:pete@peteashton.com
   - children:
       - title: "Home"
         url: /
