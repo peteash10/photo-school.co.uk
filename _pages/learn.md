@@ -8,7 +8,7 @@ permalink: /learn/
 header:
   overlay_image: /assets/images/classroom.jpg
 excerpt: 'Learning how to use your camera to make beautiful images can seem daunting. So many buttons and so much confusing jargon. Where to start?'
-redirect-from: 
+redirect_from: 
   - "/photography-workshops/"
   - "/light-painting"
   - "/street-photography"
