@@ -11,6 +11,9 @@ header:
   cta_url: "https://ti.to/photo-school/birmingham-photo-walks/"
 excerpt: 'Photo Walks are about slowing down and really looking at the details of the city while learning from being in a group.'
 
+redirect-from: 
+  - "/birmingham-photo-walks/"
+
 
 
 
