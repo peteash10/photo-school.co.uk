@@ -92,6 +92,7 @@ redirect_from:
   - "/micro-listening-photo-walk-with-sam-underwood-a-preview/"
   - "/notes-from-digbeth-south/"
   - "/class/digbeth-south-photo-walk/"
+  - "/blog/"
 ---
 
 Photo School has one simple goal: to help you get control of your camera and take great photos.
