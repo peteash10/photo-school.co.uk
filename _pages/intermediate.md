@@ -52,7 +52,7 @@ There are currently four classes. They stand alone and can be taken in any order
 
 **Requirements:** DLSR, mirrorless or similar camera with wide functionality. Enquire if not sure. 
 
-**Frequency:** Occasional, on a Wednesday evening.
+**Frequency:** Occasional, on a Wednesday evening at 6:30pm or 8:30pm. 
 
 **Venue:** [Artefact Cafe](https://www.artefactstirchley.co.uk), Stirchley [[map](https://goo.gl/maps/nMYw9rZ7ETL2)].
 
