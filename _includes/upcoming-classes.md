@@ -2,7 +2,6 @@
 
 Class     | Date   | Price | Book
 ----------|--------|---------|------
-[Beginners](/beginners-photography/) | Jun 17 | £40 | <a href="https://ti.to/photo-school/beginners-photography-stirchley-june-17" class="btn btn--primary">Book</a>
 [Lightroom Basics](/lightroom/) | July 11 | £25 | <a href="https://ti.to/photo-school/photography-classes-2018" class="btn btn--primary">Book</a>
 [Intermediate: Modes](/intermediate-photography/) | July 25 | £15 | <a href="https://ti.to/photo-school/photography-classes-2018" class="btn btn--primary">Book</a>
 [Intermediate: Lenses and Focus ](/intermediate-photography/) | July 25 | £15 | <a href="https://ti.to/photo-school/photography-classes-2018" class="btn btn--primary">Book</a>
