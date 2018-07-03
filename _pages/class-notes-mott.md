@@ -11,6 +11,8 @@ permalink: /mott/
 
 All the following can be done with any camera, from a smartphone to a DLSR and everything inbetween. 
 
+- [Download the slides](https://www.dropbox.com/s/1nehdocsficqtuz/Mott%20Macdonald%20Photography%20Slides%20wk1.pdf?dl=0) 
+
 ## Brightness
 
 The camera's light meter will default to a "Goldilocks" brightness - not too dark, not too light. Boring! Override this by adjusting the Exposure Compensation, using the +/- button on your camera or tapping the screen on your phone. 
@@ -35,7 +37,7 @@ Photography is a much about what you exclude as include. There's never only one 
 
 ## Find the Lines
 
-You've got your subject, but what's in the background? Look for simple lines and shapes which assist the subject, not detract from them. 
+You've got your subject, but what's in the background? Look for simple lines and shapes which assist the subject, rather than distract. 
 
 # Homework!
 
