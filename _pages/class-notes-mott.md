@@ -21,7 +21,7 @@ Use this to increase shadows or highlights to brings focus or add drama. Don't b
 
 The simplest and most effective way to give your photo balance and focus. 
 
-![](&&&SFLOCALFILEPATH&&&Screen%20Shot%202018-07-03%20at%2023.00.09.png)
+![](/assets/images/thirds.png)
 
 Put the horizon on one of the horizontal lines, not in the middle. 
 
