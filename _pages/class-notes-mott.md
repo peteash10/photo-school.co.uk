@@ -52,7 +52,24 @@ I would like you to send me the following:
 
 I will build the second class around your photos so it's VERY IMPORTANT that you do your homework! 
 
-## Part 2: Snapseed
+## Part 2: Architecture
+
+We will today look at architecture photography, specifically using compositional techniques to evoke awe. 
+
+The homework is to produce at least one photograph that makes Birmingham look sublime. 
+
+- Find the angles to make Birmingham's architecture look awe inspiring. 
+- Put buildings in context using foreground, midground and background. 
+- A portrait of a person where the background is as considered as the foreground.
+- Create a sense of calm by removing extraneous details. 
+
+Photographers mentioned in the slides include:
+
+- [Ansel Adams](https://www.google.com/search?q=ansel+adams&hl=en&source=lnms&tbm=isch)
+- [Edward Weston](https://www.google.com/search?q=Edward+Weston&hl=en&source=lnms&tbm=isch)
+- [Willard van Dyke](https://www.google.com/search?tbm=isch&q=Willard%20van%20Dyke)
+
+## Appendix: Snapseed
 
 Snapseed is a surprisingly powerful photo editing app for mobiles and tablets. It has the simplicty of Instagram but you can also dig deep and learn a lot about photo editing. 
 
@@ -63,4 +80,4 @@ I'd recommend it as a starter tool before approaching something like Lightroom o
 - [Download for Android](https://play.google.com/store/apps/details?id=com.niksoftware.snapseed).  
 - [Download for iOS](https://itunes.apple.com/app/id439438619).
 
-We will work through this together in class and I'll put any notes up here later. 
+We will work through this together in class and I'll put any useful notes up here later. 
