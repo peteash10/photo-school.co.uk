@@ -7,11 +7,11 @@ permalink: /mott/
 
 ---
 
+- [Download the slides](https://www.dropbox.com/s/1nehdocsficqtuz/Mott%20Macdonald%20Photography%20Slides%20wk1.pdf?dl=0) 
+
 # Part 1: Basic Composition
 
 All the following can be done with any camera, from a smartphone to a DLSR and everything inbetween. 
-
-- [Download the slides](https://www.dropbox.com/s/1nehdocsficqtuz/Mott%20Macdonald%20Photography%20Slides%20wk1.pdf?dl=0) 
 
 ## Brightness
 
