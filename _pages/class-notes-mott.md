@@ -26,11 +26,11 @@ You can view [all the uploaded photos on Dropbox here](https://www.dropbox.com/s
 
 Photographers mentioned in the slides include:
 
-- [Ansel Adams](https://www.google.com/search?q=ansel+adams&hl=en&source=lnms&tbm=isch)
-- [Edward Weston](https://www.google.com/search?q=Edward+Weston&hl=en&source=lnms&tbm=isch)
-- [Willard van Dyke](https://www.google.com/search?tbm=isch&q=Willard%20van%20Dyke)
+- [Ansel Adams](https://en.wikipedia.org/wiki/Ansel_Adams) - [Images](https://www.google.com/search?q=ansel+adams&hl=en&source=lnms&tbm=isch)
+- [Edward Weston](https://en.wikipedia.org/wiki/Edward_Weston) - [Images](https://www.google.com/search?q=Edward+Weston&hl=en&source=lnms&tbm=isch)
+- [Willard van Dyke](https://en.wikipedia.org/wiki/Willard_Van_Dyke) - [Images](https://www.google.com/search?tbm=isch&q=Willard%20van%20Dyke)
 
-I also mentioned [Bernd and Hilla Becher](https://en.wikipedia.org/wiki/Bernd_and_Hilla_Becher), personal favourites of mine, who made awe inspiring photos of industrial structures, raising them out of the ordinary. [Images](https://www.google.co.uk/search?tbm=isch&q=bernd+hilla+becher&tbs=imgo). 
+I also mentioned [Bernd and Hilla Becher](https://en.wikipedia.org/wiki/Bernd_and_Hilla_Becher), personal favourites of mine, who made awe inspiring photos of industrial structures, raising them out of the ordinary. [Images](https://www.google.co.uk/search?tbm=isch&q=bernd+hilla+becher&tbs=imgo)
 
 ## Week 1: Basic Composition
 
