@@ -9,7 +9,30 @@ permalink: /mott/
 
 - [Download the slides](https://www.dropbox.com/s/1nehdocsficqtuz/Mott%20Macdonald%20Photography%20Slides%20wk1.pdf?dl=0) 
 
-## Part 1: Basic Composition
+
+## Week 2: Architecture
+
+We will today look at architecture photography, specifically using compositional techniques to evoke awe. 
+
+**The homework is to produce one or more photographs that makes Birmingham look sublime.**
+
+- Find the angles to make Birmingham's architecture look awe inspiring. 
+- Put buildings in context using foreground, midground and background. 
+- Create a sense of calm by removing extraneous details. 
+
+[Please upload your photos here](https://www.dropbox.com/request/tE4Fo4uXdseHtWqRuIIs) - if you have problems you can send them by some other means to pete@peteashton.com
+
+You can view [all the uploaded photos on Dropbox here](https://www.dropbox.com/sh/elzhxlu4otetjv3/AABNglfsDOCXf7IVrAe8eDOea?dl=0). 
+
+Photographers mentioned in the slides include:
+
+- [Ansel Adams](https://www.google.com/search?q=ansel+adams&hl=en&source=lnms&tbm=isch)
+- [Edward Weston](https://www.google.com/search?q=Edward+Weston&hl=en&source=lnms&tbm=isch)
+- [Willard van Dyke](https://www.google.com/search?tbm=isch&q=Willard%20van%20Dyke)
+
+I also mentioned [Bernd and Hilla Becher](https://en.wikipedia.org/wiki/Bernd_and_Hilla_Becher), personal favourites of mine, who made awe inspiring photos of industrial structures, raising them out of the ordinary. [Images](https://www.google.co.uk/search?tbm=isch&q=bernd+hilla+becher&tbs=imgo). 
+
+## Week 1: Basic Composition
 
 All the following can be done with any camera, from a smartphone to a DLSR and everything inbetween. 
 
@@ -48,26 +71,6 @@ I would like you to send me the following:
 - Two or more photos of the same subject which feel radically different due to your framing. 
 - A portrait of a person where the background is as considered as the foreground. 
 
-[Please upload your photos here](https://www.dropbox.com/request/JKBGRSpbQV2qGAoBYw5b) - if you have problems you can send them by some other means to pete@peteashton.com
-
-I will build the second class around your photos so it's VERY IMPORTANT that you do your homework! 
-
-## Part 2: Architecture
-
-We will today look at architecture photography, specifically using compositional techniques to evoke awe. 
-
-The homework is to produce at least one photograph that makes Birmingham look sublime. 
-
-- Find the angles to make Birmingham's architecture look awe inspiring. 
-- Put buildings in context using foreground, midground and background. 
-- A portrait of a person where the background is as considered as the foreground.
-- Create a sense of calm by removing extraneous details. 
-
-Photographers mentioned in the slides include:
-
-- [Ansel Adams](https://www.google.com/search?q=ansel+adams&hl=en&source=lnms&tbm=isch)
-- [Edward Weston](https://www.google.com/search?q=Edward+Weston&hl=en&source=lnms&tbm=isch)
-- [Willard van Dyke](https://www.google.com/search?tbm=isch&q=Willard%20van%20Dyke)
 
 ## Appendix: Snapseed
 
