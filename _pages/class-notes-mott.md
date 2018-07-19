@@ -62,7 +62,7 @@ Photography is a much about what you exclude as include. There's never only one 
 
 You've got your subject, but what's in the background? Look for simple lines and shapes which assist the subject, rather than distract. 
 
-## Homework!
+### Homework
 
 I would like you to send me the following:
 
