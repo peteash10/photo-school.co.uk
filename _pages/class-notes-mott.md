@@ -1,6 +1,6 @@
 ---
 layout: single
-toc: false
+toc: true
 
 title: "Photo School at Mott MacDonald"
 permalink: /mott/
