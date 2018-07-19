@@ -71,7 +71,7 @@ Photographers mentioned in the slides include:
 
 ## Appendix: Snapseed
 
-Snapseed is a surprisingly powerful photo editing app for mobiles and tablets. It has the simplicty of Instagram but you can also dig deep and learn a lot about photo editing. 
+Snapseed is a surprisingly powerful photo editing app for mobiles and tablets. It has the simplicity of Instagram but you can also dig deep and learn a lot about photo editing. 
 
 I'd recommend it as a starter tool before approaching something like Lightroom or Photoshop. 
 
