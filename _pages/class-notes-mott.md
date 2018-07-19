@@ -52,3 +52,15 @@ I would like you to send me the following:
 
 I will build the second class around your photos so it's VERY IMPORTANT that you do your homework! 
 
+# Part 2: Snapseed
+
+Snapseed is a surprisingly powerful photo editing app for mobiles and tablets. It has the simplicty of Instagram but you can also dig deep and learn a lot about photo editing. 
+
+I'd recommend it as a starter tool before approaching something like Lightroom or Photoshop. 
+
+[Google's help pages for Snapseed are here](https://support.google.com/snapseed#topic=6155507). 
+
+- [Download for Android](https://play.google.com/store/apps/details?id=com.niksoftware.snapseed).  
+- [Download for iOS](https://itunes.apple.com/app/id439438619).
+
+We will work through this together in class and I'll put any notes up here later. 
