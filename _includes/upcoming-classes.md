@@ -2,7 +2,6 @@
 
 Class     | Date   | Price | Book
 ----------|--------|---------|------
-[Lightroom Basics](/lightroom/) | July 18 | £25 | <a href="https://ti.to/photo-school/photography-classes-2018" class="btn btn--primary">Book</a>
 [Intermediate: Modes](/intermediate-photography/) | July 25 | £15 | <a href="https://ti.to/photo-school/photography-classes-2018" class="btn btn--primary">Book</a>
 [Intermediate: Lenses and Focus ](/intermediate-photography/) | July 25 | £15 | <a href="https://ti.to/photo-school/photography-classes-2018" class="btn btn--primary">Book</a>
 [Intermediate: Measuring and Metering](/intermediate-photography/) | Aug 8 | £15 | <a href="https://ti.to/photo-school/photography-classes-2018" class="btn btn--primary">Book</a>
