@@ -2,8 +2,6 @@
 
 Class     | Date   | Price | Book
 ----------|--------|---------|------
-[Intermediate: Modes](/intermediate-photography/) | July 25 | £15 | <a href="https://ti.to/photo-school/photography-classes-2018" class="btn btn--primary">Book</a>
-[Intermediate: Lenses and Focus ](/intermediate-photography/) | July 25 | £15 | <a href="https://ti.to/photo-school/photography-classes-2018" class="btn btn--primary">Book</a>
 [Intermediate: Measuring and Metering](/intermediate-photography/) | Aug 8 | £15 | <a href="https://ti.to/photo-school/photography-classes-2018" class="btn btn--primary">Book</a>
 [Intermediate: Composition ](/intermediate-photography/) | Aug 8 | £15 | <a href="https://ti.to/photo-school/photography-classes-2018" class="btn btn--primary">Book</a>
 [Beginners](/beginners-photography/) - **Sold Out** | Sep 16 | £40 | <a href="https://ti.to/photo-school/beginners-photography-stirchley-sept-18" class="btn btn--primary">Book</a>
