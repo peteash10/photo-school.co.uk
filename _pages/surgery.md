@@ -15,7 +15,7 @@ To promote my classes, tuition and walks, I run occasional drop-in surgeries at 
 
 You can ask me any questions about how your camera works or how to improve your photography and I will do my best to answer within 10 minutes. If we need more time, a class or tuition session will be recommended. 
 
-If you are coming to the event specially and want to ensure a slot at a particular time, please feel free to email me in advance and I'll save you a space. 
+If you are coming to the event specially and want to ensure a slot at a particular time, please feel free to [email me](http://photo-school.co.uk/contact/) in advance and I'll save you a space. 
 
 Questions might include:
 
@@ -31,3 +31,8 @@ Basically I'll have a go at whatever you throw at me.
 
 For Autumn 2018 I will be running surgeries at [Stirchley Community Market](https://stirchleycommunitymarket.co.uk) featuring many local food and craft traders, so there's plenty to see and do. 
 
+If you know of an event that I could run a surgery at, either for promotional purposes or comissioned for a fee, please do [get in touch](http://photo-school.co.uk/contact/). 
+
+# Upcoming Classes
+
+{% include upcoming-classes.md %}
