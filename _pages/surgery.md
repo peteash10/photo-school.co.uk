@@ -29,9 +29,9 @@ Questions might include:
 
 Basically I'll have a go at whatever you throw at me.
 
-For Autumn 2018 I will be running surgeries at [Stirchley Community Market](https://stirchleycommunitymarket.co.uk) featuring many local food and craft traders, so there's plenty to see and do. 
+For In September and November 2018 I will be running surgeries at [Stirchley Community Market](https://stirchleycommunitymarket.co.uk) featuring many local food and craft traders, so there's plenty to see and do. 
 
-If you know of an event that I could run a surgery at, either for promotional purposes or comissioned for a fee, please do [get in touch](http://photo-school.co.uk/contact/). 
+If you know of an event that I could run a surgery at, either for promotional purposes or commissioned for a fee, please do [get in touch](http://photo-school.co.uk/contact/). 
 
 # Upcoming Classes
 
