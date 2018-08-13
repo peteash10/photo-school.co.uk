@@ -30,6 +30,8 @@ By the end of it you will be able to shoot in an Advanced mode and control the b
 
 You will also have a grounding in composition – simple tricks to make your photos more dramatic and aesthetically pleasing.
 
+The class is five hours long with a break where we go outside to practice. Specific details are on the booking page. 
+
 {% include figure image_path="/assets/images/classroom.jpg" caption="A Beginners class in 2018." %}
 
 {% include upcoming-classes.md %}
