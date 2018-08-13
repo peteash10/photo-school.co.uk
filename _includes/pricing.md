@@ -1,11 +1,7 @@
 ## Pricing
 
-Pricing depends on the amount of time required to both prepare and deliver the workshop.
+Pricing is based on the amount of time required to both prepare, deliver and follow up on the workshop. If you have a specific budget I can tailor the prepartion to that and ultimately you get what you pay for. 
 
-Bespoke workshops start from as little as £350, depending on the level of customisation and preparation time required. 
-
-For a workshop where I don't need to do any preparation and can use existing materials, I generally budget using the Personal Tuition rate of £35 per hour (including travel time.)
-
-Your requirements are likely to be somewhere on a scale so please email or call to discuss.
+I have in the past charged between £100 and £1500 for workshops. Your requirements are likely to be somewhere on that scale so please email or call to discuss.
 
 <a href="/contact/" class="btn btn--primary">Get in touch</a>
