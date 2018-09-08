@@ -17,9 +17,9 @@ I've been interested in and involved with the Birmingham arts and culture scenes
 
 [Still Walking](http://www.stillwalking.org) is a yearly festival of guided tours run by the fantastic Ben Waddington who helps local experts and enthusiasts on very specific topics become guides, guaranteeing a unique perspective on Birmingham. 
 
-[Flatpack](http://flatpackfestival.org.uk) is a film festival which goes beyod mere cinema screenings, running a lot of events that tie into their themes, often including walks around the city. 
+[Flatpack](http://flatpackfestival.org.uk) is a film festival which goes beyond mere cinema screenings, running a lot of events that tie into their themes, often including walks around the city. 
 
-[SoundKitchen](http://soundkitchenuk.org/) are a group of composer/artists who have run some very good Sound Walks in the city, encouraging you to use your ears as a photographer uses their eyes. A marvelous way to retune your perceptions. 
+[SoundKitchen](http://soundkitchenuk.org/) are a group of composer/artists who have run some very good Sound Walks in the city, encouraging you to use your ears as a photographer uses their eyes. A marvellous way to retune your perceptions. 
 
 [Digbeth First Friday](https://digbethfirstfriday.com) - Once a month all the smaller galleries and art spaces in Digbeth co-ordinate their efforts and open their doors, showcasing the more experimental and alternative cultural activity of the city. The website also serves as a directory and gateway to the quirky.
 
