@@ -26,10 +26,3 @@ I send out a Photo School newsletter every month or so with details of new class
 ## Twitter
 
 The [Twitter account](http://twitter.com/photoschoolbham/) is a good way to keep up with the Photo School blog and classes, and weather reports for upcoming walks.
-
-## Flickr
-Everyone who attends a Photo School class is encouraged to post their photos to [the Flickr group](http://www.flickr.com/groups/mattandpeteschool/) where you can share your photos and stay in touch with each other.
-
-## Instagram
-
-If you come on a walk and post any pics to Instagram please mention [@photoschoolbham](https://www.instagram.com/photoschoolbham/)!
