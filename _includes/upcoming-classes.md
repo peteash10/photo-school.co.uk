@@ -2,8 +2,6 @@
 
 Class     | Date   | Price | Book
 ----------|--------|---------|------
-[Drop-in Surgery](/surgery/) | Sep 4 | Free | <a href="/surgery/" class="btn btn--primary">Info</a> 
-[Beginners](/beginners-photography/) - **Sold Out** | Sep 16 | £40 | <a href="https://ti.to/photo-school/beginners-photography-stirchley-sept-18" class="btn btn--primary">Book</a>
 [Beginners](/beginners-photography/) | Sep 30 | £40 | <a href="https://ti.to/photo-school/beginners-photography-stirchley-sept-30" class="btn btn--primary">Book</a>
 [Beginners](/beginners-photography/) | Oct 14 | £40 | <a href="https://ti.to/photo-school/beginners-photography-stirchley-oct-18" class="btn btn--primary">Book</a>
 [Drop-in Surgery](/surgery/) | Nov 6 | Free | <a href="/surgery/" class="btn btn--primary">Info</a> 
