@@ -100,7 +100,7 @@ My classes and workshops can be run almost anywhere and can be tailored for your
 
 **Institutions**: Offer photography courses to your members and visitors.
 
-**Businesses**: Give your marketing team the skills to document your activities. Support staff 
+**Businesses**: Give your marketing team the skills to document your activities and promote your business.
 
 **Clubs and Societies**: Let me show you how to photograph your passions at a professional standard.
 
