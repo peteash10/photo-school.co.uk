@@ -76,7 +76,7 @@ A new walk around the picturesque garden suburb built from scratch by the Cadbur
 
 ## One-Year Photo Walk Pass
 
-If you're going to attend at least three of my photo walks, this is for you. For **£35** you'll be issued with a Discount Code valid for one year, starting on the date of your choosing.
+If you're going to attend at least four of my photo walks, this is for you. For **£45** you'll be issued with a Discount Code valid for one year, starting on the date of your choosing.
 
 <a href="/walks-pass" class="btn btn--primary">More info</a>
 

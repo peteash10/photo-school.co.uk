@@ -52,7 +52,7 @@ If you were given a £30 or £35 voucher back when the Beginners course was shor
 
 ## One-Year Photo Walk Pass
 
-If you're going to attend at least three of [my photo walks](/walks/), this is for you. For **£35** you'll be issued with a Discount Code valid for one year, starting on the date of your choosing.
+If you're going to attend at least three of [my photo walks](/walks/), this is for you. For **£45** you'll be issued with a Discount Code valid for one year, starting on the date of your choosing.
 
 <a href="/walks-pass" class="btn btn--primary">More info</a>
 
