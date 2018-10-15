@@ -15,6 +15,15 @@ excerpt: 'Photo Walks are about slowing down and really looking at the details o
 
 A new walk, devised with the [Jewellery Quarter Townscape Heritage](https://jewelleryquarter.net/townscape-heritage/) project, that looks at how the history of this fascinating area is being preserved for the future, but at what cost?
 
+**Suitable for:** All levels of photography and all cameras.
+
+**Accessibility:** Mostly pavements. Pretty good accessibility.
+
+**Frequency:** Monthly-ish all year.
+
+**Starting point:** [Diamond Quarter shop](https://goo.gl/maps/hpGkjxHx6a42) on Warstone Lane by the Big Peg at 12pm.
+
+Standard price: £10
  
 
 {% include upcoming-walks.md %}
