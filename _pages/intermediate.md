@@ -20,12 +20,6 @@ Each class is 90 minutes long and covers a small selection of subjects so as not
 
 There are currently four classes. They stand alone and can be taken in any order, individually or as a set. If they are popular I may add more. 
 
-## Intermediate: Modes
-
-- Manual, Aperture Priority, Shutter Priority, Programme, Auto, etc. 
-- They all do the same thing - take photos - but in different ways.
-- What are their relative strengths and weaknesses? 
-
 ## Intermediate: Lenses and Focus
 
 - What does something like "Nikon 18-55 mm f/3.5-5.6G VR AF-P DX" actually mean?
