@@ -3,10 +3,27 @@
 Class     | Date   | Price | Book
 ----------|--------|---------|------
 [Drop-in Surgery](/surgery/) | Nov 6 | Free | <a href="/surgery/" class="btn btn--primary">Info</a> 
-[Beginners](/beginners-photography/) | Nov 11 | £40 | <a href="https://ti.to/photo-school/beginners-photography-stirchley-nov-18" class="btn btn--primary">Book</a>
+[Beginners Photography](/beginners-photography/) | Nov 11 | £40 | <a href="https://ti.to/photo-school/beginners-photography-stirchley-nov-18" class="btn btn--primary">Book</a>
 [City at Night](/city-at-night) | Nov 13 | £15 | <a href="https://ti.to/photo-school/birmingham-photo-walks" class="btn btn--primary">Book</a>
 [City at Night](/city-at-night) | Dec 4 | £15 | <a href="https://ti.to/photo-school/birmingham-photo-walks" class="btn btn--primary">Book</a>
-[Beginners](/beginners-photography/) | Dec 9  | £40 | <a href="https://ti.to/photo-school/beginners-photography-stirchley-dec-18" class="btn btn--primary">Book</a>
+[Beginners Photography](/beginners-photography/) | Dec 9  | £40 | <a href="https://ti.to/photo-school/beginners-photography-stirchley-dec-18" class="btn btn--primary">Book</a>
+[Beginners Photography](/beginners-photography/) | Jan 13 | £40 | <a href="https://ti.to/photo-school/photo-school-classes" class="btn btn--primary">Book</a>
+[City at Night](/city-at-night)      | Jan 15   | £15   | <a href="https://ti.to/photo-school/birmingham-photo-walks" class="btn btn--primary">Book</a>
+[Intermediate Composition](/intermediate-photography) | Jan 20 | £20 | <a href="https://ti.to/photo-school/photo-school-classes" class="btn btn--primary">Book</a>
+[Lightroom Basics](/lightroom) | Jan 20 | £30 | <a href="https://ti.to/photo-school/photo-school-classes" class="btn btn--primary">Book</a>
+[Beginners Photography](/beginners-photography/) | Jan 27 | £40 | <a href="https://ti.to/photo-school/photo-school-classes" class="btn btn--primary">Book</a>
+[City at Night](/city-at-night)      | Feb 12   | £15   | <a href="https://ti.to/photo-school/birmingham-photo-walks" class="btn btn--primary">Book</a>
+[Intermediate Metering](/intermediate-photography) | Feb 17 | £20 | <a href="https://ti.to/photo-school/photo-school-classes" class="btn btn--primary">Book</a>
+[Intermediate Focus](/intermediate-photography) | Feb 17 | £20 | <a href="https://ti.to/photo-school/photo-school-classes" class="btn btn--primary">Book</a>
+[Beginners Photography](/beginners-photography/) | Feb 24 | £40 | <a href="https://ti.to/photo-school/photo-school-classes" class="btn btn--primary">Book</a>
+[Intermediate Composition](/intermediate-photography) | Mar 3 | £20 | <a href="https://ti.to/photo-school/photo-school-classes" class="btn btn--primary">Book</a>
+[Lightroom Basics](/lightroom) | Mar 3 | £30 | <a href="https://ti.to/photo-school/photo-school-classes" class="btn btn--primary">Book</a>
+[Beginners Photography](/beginners-photography/) | Mar 24 | £40 | <a href="https://ti.to/photo-school/photo-school-classes" class="btn btn--primary">Book</a>
+[Beginners Photography](/beginners-photography/) | Apr 28 | £40 | <a href="https://ti.to/photo-school/photo-school-classes" class="btn btn--primary">Book</a>
+[Beginners Photography](/beginners-photography/) | May 26 | £40 | <a href="https://ti.to/photo-school/photo-school-classes" class="btn btn--primary">Book</a>
+[Beginners Photography](/beginners-photography/) | Jun 23 | £40 | <a href="https://ti.to/photo-school/photo-school-classes" class="btn btn--primary">Book</a>
+
+
 
 Classes for 2019 will be scheduled soon. 
 
