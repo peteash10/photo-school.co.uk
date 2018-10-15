@@ -13,11 +13,8 @@ excerpt: 'Photo Walks are about slowing down and really looking at the details o
 
 ---
 
-A new walk, devised with the [Jewellery Quarter Townscape Heritage](https://jewelleryquarter.net/townscape-heritage/) project, that focusses on the network of streets between Warstone Lane and Graham Street. The first walks, during Birmingham Heritage Week this September, are free. Subsequent walks will be run by me at the usual cost. 
+A new walk, devised with the [Jewellery Quarter Townscape Heritage](https://jewelleryquarter.net/townscape-heritage/) project, that looks at how the history of this fascinating area is being preserved for the future, but at what cost?
 
-More info to come. 
-
-{% include figure image_path="assets/images/jqheritagemap.png" alt="Jewellery Quarter Industrial Middle" %}
  
 
 {% include upcoming-walks.md %}
