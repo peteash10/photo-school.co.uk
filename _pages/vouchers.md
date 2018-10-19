@@ -16,7 +16,7 @@ Photo School vouchers are available in any denomination you desire and can be us
 
 Your personalised voucher is emailed as a PDF for you to print out along with instructions on how to use it.
 
-(Have a look at [a sample PDF](http://photo-school.co.uk/assets/docs/sample-photo-school-voucher.pdf).)
+(Have a look at [a sample PDF voucher](http://photo-school.co.uk/assets/docs/sample-photo-school-voucher.pdf).)
 
 Credit is recorded with me and can be spread over various events. There’s no expiry date, because that's just evil.
 
