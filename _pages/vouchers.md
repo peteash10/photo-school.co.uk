@@ -7,7 +7,7 @@ toc_icon: file-alt
 title: "Gift Vouchers"
 permalink: /gift-vouchers/
 header:
-  overlay_image: https://i1.wp.com/www.photo-school.co.uk/wp-content/uploads/sites/13/2014/12/voucher-xmas.jpg
+  overlay_image: http://photo-school.co.uk/assets/images/voucher-xmas.jpg
 excerpt: 'Give the gift of photographic knowledge.'
 ---
 
