@@ -34,10 +34,10 @@ If you have any questions or problems, [please get in touch](/contact).
 
 ## If you’re uncertain how much to buy
 
-* A [Beginners Course](/beginners-class/) costs £40.
-* £10-15 will cover a [photo walk](/birmingham-photo-walks/), depending on the route.
-* A [one year pass](/walks-pass) for all the walks I run costs £45.
-* £35 covers an hour of [personal tuition](/personal-tuition/) (excluding optional equipment hire / travel outside Birmingham). £100 covers three sessions.
+* [The Beginners Course](/beginners-class/) costs £40.
+* [Photo Walks](/birmingham-photo-walks/) cost £10-15, depending on the route.
+* [A Photo Walks One Yes Pass](/walks-pass) costs £45.
+* [Personal Tuition](/personal-tuition/) runs at £35 per hour (excluding travel outside Birmingham). £100 would cover three one hour sessions.
 
 ## Redeeming your voucher
 
