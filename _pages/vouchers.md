@@ -16,11 +16,13 @@ Photo School vouchers are available in any denomination you desire and can be us
 
 Your personalised voucher is emailed as a PDF for you to print out along with instructions on how to use it.
 
-Credit is recorded with me and can be spread over various events. There’s no expiry date and if I ever stop Photo School, unused vouchers will be refunded.
+(Have a look at [a sample PDF](http://photo-school.co.uk/assets/docs/sample-photo-school-voucher.pdf).)
+
+Credit is recorded with me and can be spread over various events. There’s no expiry date, because that's just evil.
 
 ## Purchase a voucher
 
-**To purchace a voucher, just click on the Buy Now button below.**
+**To purchase a voucher, just click on the Buy Now button below.**
 
 You’ll be taken to a secure payment page where you can enter the value you require.
 
@@ -47,13 +49,5 @@ If your voucher doesn’t cover the cost of the event I’ll invoice you for the
 
 If the event costs less than your credit I’ll simply deduct it leaving the rest for another event.
 
-If you were given a £30 or £35 voucher back when the Beginners course was shorter and cost £30 or £35, and would like to do the current £40 course, I’ll honour that. Don’t worry about the difference.
-
 [If in doubt, get in touch!](/contact/)
-
-## One-Year Photo Walk Pass
-
-If you're going to attend at least three of [my photo walks](/walks/), this is for you. For **£45** you'll be issued with a Discount Code valid for one year, starting on the date of your choosing.
-
-<a href="/walks-pass" class="btn btn--primary">More info</a>
 
