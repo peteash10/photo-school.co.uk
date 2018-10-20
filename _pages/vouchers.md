@@ -20,7 +20,7 @@ Your personalised voucher is emailed as a PDF for you to print out along with in
 
 Credit is recorded with me and can be spread over various events. There’s no expiry date, because that's just evil.
 
-![](http://photo-school.co.uk/assets/voucher+card.jpg)
+![](http://photo-school.co.uk/assets/images/voucher+card.jpg)
 
 ## Purchase a voucher
 
