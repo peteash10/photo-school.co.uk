@@ -2,8 +2,8 @@
 
 Walk               | Date    | Price | Book
 -------------------|---------|-------|-----
-[Digbeth](/digbeth)            | Nov 4   | £10   | <a href="https://ti.to/photo-school/birmingham-photo-walks" class="btn btn--primary">Book</a>
-[City at Night](/city-at-night)      | Nov 13  | £15   | <a href="https://ti.to/photo-school/birmingham-photo-walks" class="btn btn--primary">Book</a>
+
+[City at Night](/city-at-night)      | Nov 13  | £15   | <a href="https://ti.to/photo-school/birmingham-photo-walks" class="btn btn--primary">Sold Out</a>
 [City at Night](/city-at-night)      | Dec 4   | £15   | <a href="https://ti.to/photo-school/birmingham-photo-walks" class="btn btn--primary">Book</a>
 [Spaghetti Junction](/spaghetti-junction) | Jan 6   | £15   | <a href="https://ti.to/photo-school/birmingham-photo-walks" class="btn btn--primary">Book</a>
 [City at Night](/city-at-night)      | Jan 15   | £15   | <a href="https://ti.to/photo-school/birmingham-photo-walks" class="btn btn--primary">Book</a>
