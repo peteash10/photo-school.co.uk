@@ -37,8 +37,27 @@ In 2018 I'm not sure I'd recommend getting a new bridge camera as you can get a 
 Ranges of bridge cameras to consider getting second hand would be Fuji Finepix and Lumix FZ. (Nikon Coolpix and Canon Powershot bridge cameras don't tend to have the DLSR controls, presumably because they'd rather you get a DSLR.) If a bridge works for you, great! If you get frustrated after a year you know you're serious and ready to move up. 
 
 
+## Mirrorless cameras
+
+The mirrorless camera is a relatively new style of camera which aims to combine the ergonomic shape of a traditonal compact camera with the quality and fuctionalty of a DSLR. It will have a high quality sensor to record images and the ability to exchange lenses, which will also tend to be good quality. 
+
+Quality aside, they operate quite differently. The "mirrorless"-ness means when you look through the viewfinder you're not looking through the lens itself, as you do with a DSLR. You're often looking at a small digital screen, as with the bridge cameras above. There's also a lot less space for buttons and dials, so some compromises have to be made.
+
+There are two broad types of mirrorless I've seen in class. The first pushes all the functionality to fiddly buttons and menus on the back screen. This makes them seem simple but makes doing advanced things quite frustrating.
+
+{% include figure image_path="/assets/images/mirrorless-sony-a6000-back.jpg" caption="Tiny buttons and no dials." %}
+
+The other type pushes the functionality to classic-looking dials on the top of the camera and the lens dial. This mimics controls of pre-1980s SLR film cameras which I know I prefer. 
+
+{% include figure image_path="/assets/images/mirrorless-dials.jpg" caption="Aperture, shutter speed and brightness can all be controlled with a dial. No fiddly menus." %}
+
+Personally, I'm not a fan of mirrorless cameras, but that's because I'm totally conditioned to the DSLR. I know people who love them and produce amazing images with them, so unless you've been using DSLRs for years, you can ignore me.
+
+This market is constantly changing so I'm reluctant to recommend specific cameras. I'd recommend visiting a camera shop and trying some out. 
 
 
 
-{% include figure image_path="/assets/images/6953535655_c6dd47f141_b1.jpg" caption="One of our first classes in early 2012." %}
+
+
+
 
