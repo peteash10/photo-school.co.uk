@@ -111,7 +111,7 @@ Photography is made up of many simple concepts that, when combined, can lead to 
 
 {% include feature_row %}
 
-{% include feature_row id="row2" type="left" %}
+{% include feature_row id="row2" %}
 
 {% include upcoming-classes.md %}
 
