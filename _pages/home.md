@@ -35,6 +35,19 @@ row2:
     url: "/camera_guide"
     btn_class: "btn--primary"
     btn_label: "Read on"
+  - image_path: /assets/images/voucher-xmas.jpg
+    alt: "vouchers"
+    title: "Gift Vouchers"
+    excerpt: "Give the gift of photographic knowledge."
+    url: "/gift-vouchers"
+    btn_class: "btn--primary"
+    btn_label: "Buy Now"
+  - image_path: /assets/images/.jpg
+    alt: ""
+    title: ""
+    excerpt: ""
+    btn_class: "btn--primary"
+    btn_label: "Read on"
 pete:
   - image_path: /assets/images/14562629148_a0551cd2cc_o.jpg
     alt: "Pete Ashton"
