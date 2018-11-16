@@ -28,14 +28,14 @@ feature_row:
     btn_class: "btn--primary"
     btn_label: "More about Packages"
 row2:
-  - image_path: /assets/images/nikonheader.jpg
+  - image_path: /assets/images/nikonheader-2x3.jpg
     alt: "cameras"
     title: "Camera Guide"
     excerpt: "Which camera is best for learning photography? Check out my guide for beginners."
     url: "/camera_guide"
     btn_class: "btn--primary"
     btn_label: "Read on"
-  - image_path: /assets/images/voucher-xmas.jpg
+  - image_path: /assets/images/voucher-xmas-2x3.jpg
     alt: "vouchers"
     title: "Gift Vouchers"
     excerpt: "Give the gift of photographic knowledge."
