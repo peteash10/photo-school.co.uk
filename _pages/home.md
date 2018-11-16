@@ -27,6 +27,13 @@ feature_row:
     url: "/bespoke-photography-workshops"
     btn_class: "btn--primary"
     btn_label: "More about Packages"
+  - image_path: /assets/images/nikonheader.jpg
+    alt: "cameras"
+    title: "Camera Guide"
+    excerpt: "Which camera is best for learning photography? Check out my guide for beginners."
+    url: "/camera_guide"
+    btn_class: "btn--primary"
+    btn_label: "Read on"
 pete:
   - image_path: /assets/images/14562629148_a0551cd2cc_o.jpg
     alt: "Pete Ashton"
