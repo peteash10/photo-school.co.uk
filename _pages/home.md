@@ -42,12 +42,13 @@ row2:
     url: "/gift-vouchers"
     btn_class: "btn--primary"
     btn_label: "Buy Now"
-  - image_path: /assets/images/.jpg
-    alt: ""
-    title: ""
-    excerpt: ""
+  - image_path: /assets/images/nightwalk/0.jpg
+    alt: "Night Walk"
+    title: "Tripod Season!"
+    excerpt: "It's winter, so it's time for the City at Night walk. Learn how to do long exposures on the streets of Birmingham!"
+    url: "/city-at-night"
     btn_class: "btn--primary"
-    btn_label: "Read on"
+    btn_label: "More info"
 pete:
   - image_path: /assets/images/14562629148_a0551cd2cc_o.jpg
     alt: "Pete Ashton"
