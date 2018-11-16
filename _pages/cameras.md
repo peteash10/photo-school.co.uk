@@ -3,7 +3,7 @@ layout: single
 toc: true
 toc_label: On this page
 toc_icon: file-alt
-title: "Camreas for Beginners - a buying guide"
+title: "Cameras for Beginners - a buying guide"
 permalink: /camera_buying_guide/
 header:
   overlay_image: /assets/images/workshopsheader.jpg
@@ -11,32 +11,34 @@ excerpt: ' '
 ---
 
 
-## Photo School with Pete Ashton
+## Which camera should you buy?
 
-Photo School is the educational side of what I do. I’m an artist based in Birmingham who works with cameras and photography. This requires me to have a solid and in-depth knowledge of photography, both technically and aesthetically.
+The choice of cameras is quite bewildering, which I why I get asked this question a lot from people wanting to do [my Beginners course](http://photo-school.co.uk/beginners-photography/). Ultimately it depends on what you want to achieve, how much you have to spend and what you're physically comfortable holding. And some of that you won't know until you've started using the camera. 
 
-I have found that explaining photography to people brings great clarity to my understanding of cameras and hugely benefits my art. In turn, through exploring the fundamentals of the medium in my art I am able to bring multiple and fresh approaches to my teaching, so if one explanation doesn’t work for you I’m able to try another.
+But there are so simple, broad-strokes guidelines to buying your first camera which I shall attempt to outline, based on having given this sort of advice to a number of different sorts of people.
 
-![](/assets/images/8216663059_ac4f8d4c1b_b.jpg)
+## Phones and Compacts
 
-## About Pete Ashton
+I'll start with the sort of cameras people like me aren't supposed to recommend because they're not "professional", but it's important to stress that the camera on a high-end mobile phone is quite impressive these days. The latest Apple and Samsung phones also [incorporate a lot of computer processing](https://blog.halide.cam/iphone-xs-why-its-a-whole-new-camera-ddf9780d714c), merging multiple images taken with two lenses, producing images that can surpass those taken with "proper" camera. While this might not be photography-as-we-know-it, if your ultimate aim is to create nice, clear images of things and to focus purely on your composition, a decent phone might well be enough.  
 
-I’m a Birmingham-based artist and you cas see some of my work on my [art website](http://art.peteashton.com). I also co-run the [Birmingham Camera Obscura](http://bhamobscura.com) project with Jenny Duffin where we’re building and exploring 1000-year old cameras from before the invention of photography.
+Compact cameras, which just have one shutter button and not many controls, I'm a little unsure about. You're paying for the same level of imaging technology as a camera-with-functions but without the functions, so it's probably worth upgrading a bit. Yes, they are small and easy to carry around, but so is your phone. I'd use the money you were going to spend on a compact and upgrade your phone instead. 
 
-It’s safe to say I’m pretty obsessed with cameras and the images they make. I think about them a lot, often in some quite strange ways. There’s something wonderful about how a photo tells both truth and lies, illuminating the soul while eliminating the context. A little box that stores reflected light changed our world, and I don’t think we’ve really figured out what that means, especially as cameras become ubiquitous.
+## Bridge cameras
 
-How does this affect Photo School? Mostly in that it continues to fuel my curiosity and fascination with how people figure out how to create with their camera – and my desire to help my students get there.
+{% include figure image_path="/assets/images/bridgecameras.jpg" caption="A couple of Bridge cameras. Note the M-A-S-P dial." %}
+
+
+The "bridge" camera is essentially the technology of a compact camera in a larger body with more buttons and dials and a bigger lens. This means it's nicer to hold, easier to control and can take a wider range of photos, but is ultimately as limited as a compact camera. 
+
+On the plus side, they usually have the same sorts of controls as a DSLR (look for the big dial with M-A-S-P on the top) for a much lower price, so you can practice DSLR photography before committing to a real DSLR camera. This is what I did circa 2005 when I started thinking about photography but wasn't ready to commit. A year later I sold my Fujifilm bridge camera and bought a mid-range Nikon DSLR. 
+
+In 2018 I'm not sure I'd recommend getting a new bridge camera as you can get a much better entry-level Nikon or Canon for the same sort of money. But if you have access to one, or see one second hand, it can be a good "training wheels" camera to play with. 
+
+Ranges of bridge cameras to consider getting second hand would be Fuji Finepix and Lumix FZ. (Nikon Coolpix and Canon Powershot bridge cameras don't tend to have the DLSR controls, presumably because they'd rather you get a DSLR.) If a bridge works for you, great! If you get frustrated after a year you know you're serious and ready to move up. 
+
+
+
+
 
 {% include figure image_path="/assets/images/6953535655_c6dd47f141_b1.jpg" caption="One of our first classes in early 2012." %}
 
-## How it all started
-
-Photo School was started by myself and my friend [Matt Murtagh](https://twitter.com/mattmurtagh) in January 2012. We’d noticed that many of our friends were buying DLSR cameras with lots of functions but had no idea how to use them. The manuals were off-putting and they generally just left them on auto.
-
-So we ran a class, using [Cartier-Bresson](https://en.wikipedia.org/wiki/Henri_Cartier-Bresson) ’s approach to street photography as our framework, the upstairs of city centre pub as our classroom and the streets of central Birmingham as our workshop. Feedback was pretty good so we tweaked it, and ran it again, and again, forming the basis of today's [Beginners](/beginners-photography/) class.  
-
-After a couple of years Matt got a teaching job at a real school, so I took on the bulk of Photo School, merging its development with my artistic practice. Photo School is now an extension of me, but would be nothing without Matt’s hard work in those first years. His influence runs through everything I do like letters in rock-candy.
-
-From the outset Photo School was designed to keep costs to a minimum and to pay us a decent wage. Where possible we traded favours and services for venue space and haven’t spent anything on marketing or advertising, relying on word-of-mouth and Internet searches. Photo School is a slow-build enterprise, intended to be sustainable by growing within its means.
-
-{% include figure image_path="/assets/images/classroom.jpg" caption="A Beginners class in 2018." %}
