@@ -4,7 +4,7 @@ toc: true
 toc_label: On this page
 toc_icon: file-alt
 title: "Cameras for Beginners - a buying guide"
-permalink: /camera_buying_guide/
+permalink: /camera_guide/
 header:
   overlay_image: /assets/images/nikonheader.jpg
 excerpt: ' '
