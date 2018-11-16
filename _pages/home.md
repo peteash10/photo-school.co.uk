@@ -20,6 +20,7 @@ feature_row:
     url: "/walks/"
     btn_class: "btn--primary"
     btn_label: "More about Walks"
+row2:
   - image_path: /assets/images/Horse-Photography-Workshop-07-1024x718.jpg
     alt: "workshops"
     title: "Packages"
@@ -96,6 +97,8 @@ Photography is made up of many simple concepts that, when combined, can lead to 
 {% include feature_row id="pete" type="left" %}
 
 {% include feature_row %}
+
+{% include feature_row id="row2"%}
 
 {% include upcoming-classes.md %}
 
