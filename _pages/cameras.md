@@ -37,30 +37,30 @@ The "bridge" camera is essentially the technology of a compact camera in a large
 
 On the plus side, they usually have the same sorts of controls as a DSLR (look for the big dial with M-A-S-P on the top) for a much lower price, so you can practice DSLR photography before committing to a real DSLR camera. This is what I did circa 2005 when I started thinking about photography but wasn't ready to commit. A year later I sold my Fujifilm bridge camera and bought a mid-range Nikon DSLR. 
 
-In 2018 I'm not sure I'd recommend getting a new bridge camera as you can get a much better entry-level Nikon or Canon for the same sort of money. But if you have access to one, or see one second hand, it can be a good "training wheels" camera to play with. 
+In 2018 I'm not sure I'd recommend getting a new bridge camera as you can get a much better entry-level DLSR for the same sort of money. But if you have access to one, or see one second hand, it can be a good "training wheels" camera to play with. 
 
-Ranges of bridge cameras to consider getting second hand for about £100 would be Fuji Finepix and Lumix FZ. (Nikon Coolpix and Canon Powershot bridge cameras don't tend to have the DLSR controls, presumably because they'd rather you get a DSLR.) If a bridge works for you, great! If you get frustrated after a year you know you're serious and ready to move up. 
+Ranges of bridge cameras to consider getting second hand for about £100 would be Fujifilm Finepix and the Lumix FZ series. If a bridge works for you, great! If you get frustrated after a year you know you're serious and ready to move up. 
 
 
 ## Mirrorless cameras
 
 (Covered by [my Beginners course](http://photo-school.co.uk/beginners-photography/))
 
-The mirrorless camera is a relatively new style of camera which aims to combine the ergonomic shape of a traditional compact camera with the quality and functionality of a DSLR. It will have a high quality sensor to record images and the ability to exchange lenses, which will also tend to be good quality. 
+The mirrorless camera is a relatively new style of camera which aims to combine the ergonomic shape of a traditional compact camera with the quality and functionality of a DSLR. The highlight is the ability to change lenses along with a high quality sensor which is reflectd in the price. 
 
-Quality aside, they operate quite differently. The "mirrorless"-ness means when you look through the viewfinder you're not looking through the lens itself, as you do with a DSLR. You're often looking at a small digital screen, as with the bridge cameras above. There's also a lot less space for buttons and dials, so some compromises have to be made.
+That said, while the guts are similar to the DSLR, they operate quite differently. The "mirrorless"-ness means when you look through the viewfinder you're looking at a digital screen, not through the lens as with a DLSR (see below). There's also a lot less space for buttons and dials, so compromises will be made.
 
-There are two broad types of mirrorless I've seen in my classes. The first moves all the functionality to fiddly buttons and menus on the back screen. This makes them seem simple but makes doing advanced things quite frustrating.
+There are two broad types of mirrorless I've seen in my classes. The first moves all the functionality to fiddly buttons and menus on the back screen. This makes them seem simple but makes doing advanced things quite frustrating if you like operating your camera by feel.
 
 {% include figure image_path="/assets/images/mirrorless-sony-a6000-back.jpg" caption="Tiny buttons and no dials." %}
 
-The other type pushes the functionality to classic-looking dials on the top of the camera and the lens dial. This mimics controls of pre-1980s SLR film cameras which I know I prefer. 
+The other type pushes the functionality to classic-looking dials on the top of the camera and the lens dial. This mimics controls of pre-1980s SLR film cameras, often moreso than the modern DSLR.
 
 {% include figure image_path="/assets/images/mirrorless-dials.jpg" caption="Aperture, shutter speed and brightness can all be controlled with a dial. No fiddly menus." %}
 
-Personally, I'm not a fan of mirrorless cameras, but that's because I'm totally conditioned to the DSLR. I know people who love them and produce amazing images with them, so unless you've been using DSLRs for years, you can ignore me.
+I have used and admired the Fujifilm X-T1. The X-T20 is the current model and sells for [£850](https://amzn.to/2PBV5rF) (at time of writing).
 
-This market is constantly changing so I'm reluctant to recommend specific cameras. I'd recommend visiting a camera shop and trying some out. 
+But this market is constantly changing and I don't keep tabs on it so I'm reluctant to recommend specific cameras. I'd recommend visiting a camera shop and trying some out. 
 
 ## Entry Level DSLR cameras
 
