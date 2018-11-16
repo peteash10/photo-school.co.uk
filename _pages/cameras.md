@@ -17,7 +17,7 @@ The choice of cameras is quite bewildering, which I why I get asked this questio
 
 But there are so simple, broad-strokes guidelines to buying your first camera which I shall attempt to outline, based on having given this sort of advice to a number of different sorts of people.
 
-## The short version
+## The short version
 
 If you want a camera that will introduce you to photography as it has been practiced for the last 100 years and which will serve you well through most situations, get an entry level Nikon or Canon DLSR. The current basic Nikon model is the [D3500](https://amzn.to/2ONYu1n) while the current basic Canon is the [4000D](https://amzn.to/2DtYvp0). If you look after them they'll keep their value should you want to trade up. 
 
