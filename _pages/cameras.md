@@ -17,6 +17,12 @@ The choice of cameras is quite bewildering, which I why I get asked this questio
 
 But there are so simple, broad-strokes guidelines to buying your first camera which I shall attempt to outline, based on having given this sort of advice to a number of different sorts of people.
 
+## The short version
+
+If you want a camera that will introduce you to photography as it has been practiced for the last 100 years and which will serve you well through most situations, get an entry level Nikon or Canon DLSR. The current basic Nikon model is the [D3500](https://amzn.to/2ONYu1n) while the current basic Canon is the [4000D](https://amzn.to/2DtYvp0). If you look after them they'll keep their value should you want to trade up. 
+
+Now, on to the various options, which I've broken into four categories. 
+
 ## Phones and Compacts
 
 I'll start with the sort of cameras people like me aren't supposed to recommend because they're not "professional", but it's important to stress that the camera on a high-end mobile phone is quite impressive these days. The latest Apple and Samsung phones also [incorporate a lot of computer processing](https://blog.halide.cam/iphone-xs-why-its-a-whole-new-camera-ddf9780d714c), merging multiple images taken with two lenses, producing images that can surpass those taken with "proper" camera. While this might not be photography-as-we-know-it, if your ultimate aim is to create nice, clear images of things and to focus purely on your composition, a decent phone might well be enough.  
