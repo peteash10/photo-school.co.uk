@@ -27,7 +27,6 @@ Compact cameras, which just have one shutter button and not many controls, I'm a
 
 {% include figure image_path="/assets/images/bridgecameras.jpg" caption="A couple of Bridge cameras. Note the M-A-S-P dial." %}
 
-
 The "bridge" camera is essentially the technology of a compact camera in a larger body with more buttons and dials and a bigger lens. This means it's nicer to hold, easier to control and can take a wider range of photos, but is ultimately as limited as a compact camera. 
 
 On the plus side, they usually have the same sorts of controls as a DSLR (look for the big dial with M-A-S-P on the top) for a much lower price, so you can practice DSLR photography before committing to a real DSLR camera. This is what I did circa 2005 when I started thinking about photography but wasn't ready to commit. A year later I sold my Fujifilm bridge camera and bought a mid-range Nikon DSLR. 
@@ -39,7 +38,9 @@ Ranges of bridge cameras to consider getting second hand would be Fuji Finepix a
 
 ## Mirrorless cameras
 
-The mirrorless camera is a relatively new style of camera which aims to combine the ergonomic shape of a traditonal compact camera with the quality and fuctionalty of a DSLR. It will have a high quality sensor to record images and the ability to exchange lenses, which will also tend to be good quality. 
+(Covered by [my Beginners course](http://photo-school.co.uk/beginners-photography/))
+
+The mirrorless camera is a relatively new style of camera which aims to combine the ergonomic shape of a traditional compact camera with the quality and functionalty of a DSLR. It will have a high quality sensor to record images and the ability to exchange lenses, which will also tend to be good quality. 
 
 Quality aside, they operate quite differently. The "mirrorless"-ness means when you look through the viewfinder you're not looking through the lens itself, as you do with a DSLR. You're often looking at a small digital screen, as with the bridge cameras above. There's also a lot less space for buttons and dials, so some compromises have to be made.
 
@@ -55,9 +56,34 @@ Personally, I'm not a fan of mirrorless cameras, but that's because I'm totally 
 
 This market is constantly changing so I'm reluctant to recommend specific cameras. I'd recommend visiting a camera shop and trying some out. 
 
+## Entry Level DSLR cameras
 
+(Covered by [my Beginners course](http://photo-school.co.uk/beginners-photography/))
 
+If you're confident you don't need your camera to fit in your handbag or jacket pocket, and you want to push your photography beyond common subjects and scenes, you'll probably want to get a DSLR camera. 
 
+DSLR stands for Digital Single Lens Reflex, which means when you look through the viewfinder you're looking through the big lens, seeing exactly what will be recorded by the sensor. This means you look *through* the camera, not *at* a screen on the camera, which arguably makes the camera closer to something you wear, like glasses, rather than something you hold. It becomes an extension of you. 
 
+Common features of the DSLR are the ability to change lenses (as with the mirrorless), a larger sensor capturing more light in more detail and more accessible controls and dials. Once you're familiar with your DSLR camera you should be able to change the settings without moving your eye from the viewfinder. 
+
+That said, the entry level DSLRs do have some more advanced features removed or pared down in order to make the camera cheaper and easier for beginners. This is not necessarily a problem, though, as they tend to keep their value so when you're ready to trade up you can sell them on. 
+
+{% include figure image_path="/assets/images/canonandnikon.jpg" caption="Canon and Nikon DSLRs. They do exactly the same things in subtly different ways." %}
+
+I'm going to concentrate on Nikon and Canon, because they're the popular brands that have good resale prices. Other brands are perfectly fine but maybe better considered when you're more advanced. An entry level Nikon or Canon is a safe all-round bet. 
+
+Nikon's entry level cameras are in two series'. The cheapest and most basic is the D3x00 series with a new model coming out every couple of years. The D3500 is just out at time of writing (Autumn 2018) and costs £500 on Amazon. The previous model, D3400, is £400 while 2014's D3300 is £300. You get the idea. 
+
+If you're looking for a camera that will last you a good few years, I wouldn't go older than the D3300. If you just want a camera to try out, by all means go older. I see a lot of 3100s in my class and they're perfectly fine. 
+
+Nikon's upper-entry range is the D5x00 which follows the same numbering system. The current model is the D5600 which came out in late 2016, so it's due for a new model soon. This sells for £650 with older models hovering around £4-500. 
+
+The D5x00 is a good all round camera, not a stripped back as the D3x00. A professional would find it a bit frustrating but it'll see you through beginners and on to some interesting photography. 
+
+Canon's entry-level DSLRs run fairly parallel with Nikon's. Their low-end model is the xx00D (four digits before the D). The older models worth looking at are the 1200D and 1300D while the current models are the 4000D (£300) and 2000D (£500). These are in the same ballpark as Nikon's D3x00 range. 
+
+Next up is are the Canon x00D cameras (three digits before the D) which are similar to Nikon's D5x00 series. The 100D and 200D are lighter, while the 700D, 750D and 800D are more fully featured. A new 800D currently costs £650. 
+
+All those prices are new from Amazon in November 2018, and you can obviously find them cheaper second hand or refurbished. 
 
 
