@@ -99,6 +99,8 @@ Current Models | [D3500](https://amzn.to/2ONYu1n) | [4000D](https://amzn.to/2DtY
  | [D5600](https://amzn.to/2PXmPqf) | [200D](https://amzn.to/2QQgOsn) / [800D](https://amzn.to/2OO6TBM)
 Older Models | D3300 / D3400 | 1200D / 1300D
  | D5300 - D5500 | 100D / 600D - 750D
+ 
+ Wikipedia have timelines for [Nikon](https://en.wikipedia.org/wiki/Template:Nikon_DSLR_cameras) and [Canon](https://en.wikipedia.org/wiki/Template:Canon_EOS_digital_cameras) DLSRs which I constantly refer to to make sense of it all. 
 
 
 ## Nikon or Canon?
