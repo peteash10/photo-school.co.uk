@@ -93,7 +93,7 @@ Next up is are the Canon x00D cameras (three digits before the D) which are simi
 All those prices are new from Amazon in November 2018, and you can obviously find them cheaper second hand or refurbished. 
 
 
-&nbsp;          | Nikon   | Canon
+- | Nikon   | Canon
 ----------|--------|---------
 Current Models | [D3500](https://amzn.to/2ONYu1n) | [4000D](https://amzn.to/2DtYvp0) / [2000D](https://amzn.to/2OORsJB)
  | [D5600](https://amzn.to/2PXmPqf) | [200D](https://amzn.to/2QQgOsn) / [800D](https://amzn.to/2OO6TBM)
