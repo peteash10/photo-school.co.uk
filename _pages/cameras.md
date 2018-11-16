@@ -103,7 +103,7 @@ Older Models | D3300 / D3400 | 1200D / 1300D
 
 ## Nikon or Canon?
 
-This is the impossible question, so I'll just say that I own a Nikon D7000 camera which I really like and will probably get a Nikon D610 when it expires. But when teaching people I find the entry-level Canon cameras to be more intuitive with better placement of the ISO and +/- buttons. Canon cameras tend to be lighter while Nikon cameras tend to be tougher. Except when they're not. 
+This is the impossible question, so I'll just say that when teaching people I find the Canon's button placement to be more intuitive, which is very important, though Nikon's information screen is more illustrative. Canon cameras tend to be lighter while Nikon cameras tend to be tougher. Except when they're not. 
 
 So yeah, much of a muchness really!
 
