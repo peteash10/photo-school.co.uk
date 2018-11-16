@@ -79,5 +79,5 @@ My classes and workshops can be run almost anywhere and can be tailored for your
 
 **Clubs and Societies**: Let me show you how to photograph your passions at a professional standard.
 
-<a href="/commission/" class="btn btn--primary">More information and examples</a>
+<a href="/bespoke-photography-workshops/" class="btn btn--primary">More information and examples</a>
 
