@@ -56,7 +56,7 @@ There are two broad types of mirrorless I've seen in my classes. The first moves
 
 The other type pushes the functionality to classic-looking dials on the top of the camera and the lens dial. This mimics controls of pre-1980s SLR film cameras, often moreso than the modern DSLR.
 
-{% include figure image_path="/assets/images/mirrorless-dials.jpg" caption="Aperture, shutter speed and brightness can all be controlled with a dial. No fiddly menus." %}
+{% include figure image_path="/assets/images/mirrorless-dials.jpg" caption="ISO, shutter speed and brightness are all controlled with a chunky dial, aperture on the lens or with the thumb. No fiddly menus." %}
 
 I have used and admired the Fujifilm X-T1. The X-T20 is the current model and sells for [£850](https://amzn.to/2PBV5rF) (at time of writing).
 
