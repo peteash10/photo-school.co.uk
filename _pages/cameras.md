@@ -66,7 +66,7 @@ But this market is constantly changing and I don't keep tabs on it so I'm reluct
 
 (Covered by [my Beginners course](http://photo-school.co.uk/beginners-photography/))
 
-If you're confident you don't need your camera to fit in your handbag or jacket pocket, and you want to push your photography beyond common subjects and scenes, you'll probably want to get a DSLR camera. 
+If you're confident you don't need your camera to fit in your handbag or jacket pocket, and you want to push your photography beyond common subjects and scenes, you'll probably want to get a [DSLR camera](https://en.wikipedia.org/wiki/Digital_single-lens_reflex_camera). 
 
 DSLR stands for Digital Single Lens Reflex, which means when you look through the viewfinder you're looking through the big lens, seeing exactly what will be recorded by the sensor. This means you look *through* the camera, not *at* a screen on the camera, which arguably makes the camera closer to something you wear, like glasses, rather than something you hold. It becomes an extension of you. 
 
