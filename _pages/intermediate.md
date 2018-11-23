@@ -44,14 +44,15 @@ There are currently four classes. They stand alone and can be taken in any order
 
 **Suitable for:** Those who have completed my Beginners course, or taught themselves the basics of photography. 
 
-**Requirements:** DLSR, mirrorless or similar camera with wide functionality. Enquire if not sure. 
+**Requirements (Lenses / Metering):** DLSR, mirrorless or similar camera with wide functionality. Enquire if not sure. 
 
-**Frequency:** Occasional, on a Wednesday evening at 6:30pm or 8:30pm. 
+**Requirements (Composition):** Any camera, from smartphone to DSLR, film or digital. 
 
-**Venue:** [Artefact Cafe](https://www.artefactstirchley.co.uk), Stirchley [[map](https://goo.gl/maps/nMYw9rZ7ETL2)].
+**Frequency:** Every few months, on Sundays.
 
-**Standard price:** £15 per person.
+**Venue:** [Loaf Cookery School](http://www.loafonline.co.uk/contact/), Stirchley.
 
+**Standard price:** £20 per person.
 
 {% include upcoming-classes.md %}
 

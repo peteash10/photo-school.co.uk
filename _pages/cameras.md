@@ -13,9 +13,9 @@ excerpt: 'A buying guide for the confused.'
 
 ## Which camera should you buy?
 
-The choice of cameras is quite bewildering, which I why I get asked this question a lot from people wanting to do [my Beginners course](http://photo-school.co.uk/beginners-photography/). Ultimately it depends on what you want to achieve, how much you have to spend and what you're physically comfortable holding. And some of that you won't know until you've started using the camera. 
+The range of cameras out there can quite bewildering, which I why I get asked this question a lot from people wanting to do [my Beginners course](http://photo-school.co.uk/beginners-photography/). Ultimately it depends on what you want to achieve, how much you have to spend and what you're physically comfortable holding. And some of that you won't know until you've started using the camera. 
 
-But there are so simple, broad-strokes guidelines to buying your first camera which I shall attempt to outline, based on having given this sort of advice to a number of different sorts of people.
+But there are some simple, broad-strokes guidelines to buying your first camera which I shall attempt to outline, based on having given this sort of advice to a number of different sorts of people.
 
 ## The short version
 

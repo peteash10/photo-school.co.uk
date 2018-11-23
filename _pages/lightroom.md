@@ -32,11 +32,11 @@ This workshop will have you comfortable using Lightroom for basic tasks and able
 
 **Requirements:** Laptop computer running Lightroom Classic required for practical sessions, though you are very welcome to just watch and make notes. 
 
-**Frequency:** Occasional, on a Wednesday evening.
+**Frequency:** Every few months, on Sundays.
 
-**Venue:** [Artefact Cafe](https://www.artefactstirchley.co.uk), Stirchley [[map](https://goo.gl/maps/nMYw9rZ7ETL2)].
+**Venue:** [Loaf Cookery School](http://www.loafonline.co.uk/contact/), Stirchley.
 
-**Standard price:** £25 per person.
+**Standard price:** £30 per person.
 
 
 {% include upcoming-classes.md %}
@@ -44,4 +44,4 @@ This workshop will have you comfortable using Lightroom for basic tasks and able
 
 ***
 
-**<small>Adobe have recently launched, and are aggressively pushing, "Lightroom CC", a cloud-based, multi-platform image editing system which is seriously limited in functionality and is not covered by this course.</small>*
+**<small>Adobe have recently launched, and are aggressively pushing, "Lightroom CC", a cloud-based, multi-platform image editing system which is seriously limited in functionality and is not covered by this course. This course is only for the "Classic" version.</small>*
