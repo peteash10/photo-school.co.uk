@@ -32,7 +32,7 @@ Every walk I run is different, whether or not I follow the same route. The weath
 
 I also get bored and want to mix things up, trying new routes or checking out a new place I've heard about. While I'll often hit the same landmarks, the journey between them will always be new.
 
-In 2018 I ran 17 walks. For 2018 I have scheduled 14 walks through to July with more due in the Autumn.
+In 2018 I ran 17 walks. In 2019 I have scheduled 11 walks through to July with more due in the Autumn.
 
 <a href="https://ti.to/photo-school/birmingham-photo-walks/with/rvgtakykxj4" class="btn btn--primary">Buy it now for £45</a>
 
