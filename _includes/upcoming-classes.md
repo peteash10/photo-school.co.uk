@@ -2,7 +2,6 @@
 
 Class     | Date   | Price | Book
 ----------|--------|---------|------
-[City at Night](/city-at-night)      | Jan 15   | £15   | <a href="https://ti.to/photo-school/birmingham-photo-walks" class="btn btn--primary">Sold Out</a>
 [Intermediate Composition](/intermediate-photography) | Jan 20 | £20 | <a href="https://ti.to/photo-school/photo-school-classes" class="btn btn--primary">Book</a>
 [Beginners Photography](/beginners-photography/) | Jan 27 | £40 | <a href="https://ti.to/photo-school/photo-school-classes" class="btn btn--primary">Book</a>
 [City at Night](/city-at-night)      | Feb 12   | £15   | <a href="https://ti.to/photo-school/birmingham-photo-walks" class="btn btn--primary">Book</a>
