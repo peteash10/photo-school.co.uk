@@ -1,6 +1,14 @@
 <style>
     .image-gallery {overflow: auto; margin-left: -1%!important;}
     .image-gallery a {float: left; display: block; margin: 0 0 1% 1%; width: 32%; text-align: center; text-decoration: none!important;}
+    @media screen and (max-width: 1200px){
+    .image-gallery a {float: left; display: block; margin: 0 0 1% 1%; width: 49%; text-align: center; text-decoration: none!important;}
+    }
+    
+    @media screen and (max-width: 800px){
+    .image-gallery a {float: left; display: block; margin: 0 0 1% 1%; width: 99%; text-align: center; text-decoration: none!important;}
+    }
+    
     .image-gallery a span {display: block; text-overflow: ellipsis; overflow: hidden; white-space: nowrap; padding: 3px 0; font-size: 0.5em;}
     .image-gallery a img {width: 100%; display: block;}
 </style>
