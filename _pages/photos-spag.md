@@ -1,6 +1,6 @@
 ---
 layout: single
-toc: true
+toc: false
 toc_label: Photo Walks
 toc_icon: walking
 title: "Spaghetti Junction Photo Walks"
