@@ -4,7 +4,7 @@ toc: true
 toc_label: Photo Walks
 toc_icon: walking
 title: "Spaghetti Junction Photo Walks"
-permalink: /spaghetti-junction/
+permalink: /photos/spaghetti-junction/
 header:
   overlay_image: /assets/images/spagwalkers.jpg
   cta_label: "Book a walk now <i class='fas fa-angle-double-right'></i>"
