@@ -1,8 +1,6 @@
 ---
-layout: single
-toc: false
-toc_label: Photo Walks
-toc_icon: walking
+layout: splash
+
 title: "Spaghetti Junction Photo Walks"
 permalink: /photos/spaghetti-junction/
 header:
