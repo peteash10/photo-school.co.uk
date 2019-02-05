@@ -93,55 +93,55 @@ We're going to practice photographing different things at different scales.
 
 Throughout this I want you to think about the following:
 
-### Lighting
+**Lighting**
 
-Where is the light? Can the light or the subject be moved? What do the shadows do to the image? 
+- Where is the light? Can the light or the subject be moved? What do the shadows do to the image? 
 
-### Focus 
+**Focus** 
 
-How much of the image is in focus? Can I change this by altering the camera settings or by moving closer / further away? Does this improve the image? 
+- How much of the image is in focus? Can I change this by altering the camera settings or by moving closer / further away? Does this improve the image? 
 
-### Context
+**Context**
 
-What else is in the frame? How does the background inform the subject? Does it distract or make the image more interesting? 
+- What else is in the frame? How does the background inform the subject? Does it distract or make the image more interesting? 
 
-### Angle 
+**Angle** 
 
-Try photographing the same subject from different angles and see how it changes how the photograph feels. 
+- Try photographing the same subject from different angles and see how it changes how the photograph feels. 
 
 With those questions in mind, I'd like us to try the following scenes and subjects:
 
-### Group Shot
+**Group Shot**
 
-3 or more people standing together looking at the camera. The standard press-release photo. 
+- 3 or more people standing together looking at the camera. The standard press-release photo. 
 
-### Action Shot
+**Action Shot**
 
-2 or more people doing something. Try to make the photograph tell the story without a caption. 
+- 2 or more people doing something. Try to make the photograph tell the story without a caption. 
 
-### Portrait
+**Portrait**
 
-One person on their own. Can be their face, their whole body, or something else. Could be a formal ID photo or more artistic. 
+- One person on their own. Can be their face, their whole body, or something else. Could be a formal ID photo or more artistic. 
 
-### Building
+**Building**
 
-Go outside and photograph a building at least two stories high. Try and make it more interesting than Google Street View.
+- Go outside and photograph a building at least two stories high. Try and make it more interesting than Google Street View.
 
-### Large object
+**Large object**
 
-Find something about 2 metres tall or wide, like a table or cupboard, and photograph it in a variety of ways. 
+- Find something about 2 metres tall or wide, like a table or cupboard, and photograph it in a variety of ways. 
 
-### Medium object
+**Medium object**
 
-Find something about 2 foot tall or wide, like a television or chair, and photograph it in a variety of ways.
+- Find something about 2 foot tall or wide, like a television or chair, and photograph it in a variety of ways.
 
-### Small object
+**Small object**
 
-This time find something the size of book. 
+- This time find something the size of book. 
 
-### Tiny object
+**Tiny object**
 
-Something as small as a coin or earring. 
+- Something as small as a coin or earring. 
 
 # Week 1 Homework
 
