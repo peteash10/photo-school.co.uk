@@ -11,10 +11,10 @@ permalink: /newlife/
 
 #Schedule
 
-Week 1: Wed, 6 Feb | Notes | Homework  
-Week 2: Wed, 20 Feb  | Notes | Homework  
-Week 3: Wed, 13 Mar  | Notes | Homework  
-Week 4: Wed, 10 Apr  | Notes | Homework  
+Week 1: Wed, 6 Feb | [Notes](#week-1) | [Homework](#week-1-homework)  
+Week 2: Wed, 20 Feb    
+Week 3: Wed, 13 Mar    
+Week 4: Wed, 10 Apr    
 
 [Download slides and other materials here.](https://www.dropbox.com/sh/88ts51jix1pkd02/AAB1U2nnIcWRz9Nqb_uJOPWxa?dl=0)
 
