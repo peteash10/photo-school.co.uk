@@ -9,9 +9,9 @@ permalink: /newlife/
 
 <style>h3{ font-size: 1.2em;} h2{font-size: 1.5em;}</style>
 
-#Schedule
+# Schedule
 
-Week 1: Wed, 6 Feb | [Notes](#week-1) | [Homework](#week-1-homework)  
+Week 1: Wed, 6 Feb - [Notes](#week-1) - [Homework](#week-1-homework)  
 Week 2: Wed, 20 Feb    
 Week 3: Wed, 13 Mar    
 Week 4: Wed, 10 Apr    
