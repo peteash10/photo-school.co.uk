@@ -7,10 +7,16 @@ permalink: /newlife/
 
 ---
 
-<style>h3{ font-size: 1.4em;}</style>
+<style>h3{ font-size: 1.2em;} h2{font-size: 1.5em;}</style>
 
-**[Download slides and other materials here.](https://www.dropbox.com/sh/88ts51jix1pkd02/AAB1U2nnIcWRz9Nqb_uJOPWxa?dl=0)**
+#Schedule
 
+Week 1: Wed, 6 Feb | Notes | Homework  
+Week 2: Wed, 20 Feb  | Notes | Homework  
+Week 3: Wed, 13 Mar  | Notes | Homework  
+Week 4: Wed, 10 Apr  | Notes | Homework  
+
+[Download slides and other materials here.](https://www.dropbox.com/sh/88ts51jix1pkd02/AAB1U2nnIcWRz9Nqb_uJOPWxa?dl=0)
 
 # Week 1
 
@@ -82,6 +88,67 @@ Guiding the eye.
 * Change your approach until you're thinking like a photograph.
 
 ## Photographing Things
+
+We're going to practice photographing different things at different scales. 
+
+Throughout this I want you to think about the following:
+
+### Lighting
+
+Where is the light? Can the light or the subject be moved? What do the shadows do to the image? 
+
+### Focus 
+
+How much of the image is in focus? Can I change this by altering the camera settings or by moving closer / further away? Does this improve the image? 
+
+### Context
+
+What else is in the frame? How does the background inform the subject? Does it distract or make the image more interesting? 
+
+### Angle 
+
+Try photographing the same subject from different angles and see how it changes how the photograph feels. 
+
+With those questions in mind, I'd like us to try the following scenes and subjects:
+
+### Group Shot
+
+3 or more people standing together looking at the camera. The standard press-release photo. 
+
+### Action Shot
+
+2 or more people doing something. Try to make the photograph tell the story without a caption. 
+
+### Portrait
+
+One person on their own. Can be their face, their whole body, or something else. Could be a formal ID photo or more artistic. 
+
+### Building
+
+Go outside and photograph a building at least two stories high. Try and make it more interesting than Google Street View.
+
+### Large object
+
+Find something about 2 metres tall or wide, like a table or cupboard, and photograph it in a variety of ways. 
+
+### Medium object
+
+Find something about 2 foot tall or wide, like a television or chair, and photograph it in a variety of ways.
+
+### Small object
+
+This time find something the size of book. 
+
+### Tiny object
+
+Something as small as a coin or earring. 
+
+# Week 1 Homework
+
+I will assign this towards the end of the day once I've got a sense of what we need to practice. 
+
+
+ 
 
 
 
