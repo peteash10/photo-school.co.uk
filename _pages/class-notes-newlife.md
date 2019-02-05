@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: splash
 toc: true
 
 title: "Photo School at Newlife"
