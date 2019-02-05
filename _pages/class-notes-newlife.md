@@ -7,6 +7,8 @@ permalink: /newlife/
 
 ---
 
+<style>h3{ font-size: 1.4em;}</style>
+
 **[Download slides and other materials here.](https://www.dropbox.com/sh/88ts51jix1pkd02/AAB1U2nnIcWRz9Nqb_uJOPWxa?dl=0)**
 
 
@@ -79,7 +81,7 @@ Guiding the eye.
 * Try something, then iterate. 
 * Change your approach until you're thinking like a photograph.
 
-# Photographing Things
+## Photographing Things
 
 
 
