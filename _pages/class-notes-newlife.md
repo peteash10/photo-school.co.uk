@@ -18,6 +18,8 @@ Week 4: Wed, 10 Apr
 
 [Download slides and other materials here.](https://www.dropbox.com/sh/88ts51jix1pkd02/AAB1U2nnIcWRz9Nqb_uJOPWxa?dl=0)
 
+My email is pete@peteashton.com
+
 # Week 1
 
 Today we're going to briefly look at photographic composition and how we can use it to guide the viewer through the photography. 
