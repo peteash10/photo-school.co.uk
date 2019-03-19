@@ -10,7 +10,3 @@ Class     | Date   | Price | Book
 
 **If you have a [voucher](/gift-vouchers/) or credit**, please [get in touch](/contact/) before booking.
 
-
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAwNjM4NzEwOF19
--->
