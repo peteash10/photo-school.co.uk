@@ -42,11 +42,11 @@ row2:
     url: "/gift-vouchers"
     btn_class: "btn--primary"
     btn_label: "Buy Now"
-  - image_path: /assets/images/nightwalk/0.jpg
-    alt: "Night Walk"
-    title: "Tripod Season!"
-    excerpt: "It's winter, so it's time for the City at Night walk. Learn how to do long exposures on the streets of Birmingham!"
-    url: "/city-at-night"
+  - image_path: /assets/images/tuition-frontpage.jpg
+    alt: "Personal Tuition"
+    title: "Tuition"
+    excerpt: "One to one tuition tailored to your needs."
+    url: "/personal-tuition"
     btn_class: "btn--primary"
     btn_label: "More info"
 pete:
