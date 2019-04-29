@@ -46,7 +46,7 @@ Ranges of bridge cameras to consider getting second hand for about £100 would b
 
 (Covered by [my Beginners course](http://photo-school.co.uk/beginners-photography/))
 
-The mirrorless camera is a relatively new style of camera which aims to combine the ergonomic shape of a traditional compact camera with the quality and functionality of a DSLR. The highlight is the ability to change lenses along with a high quality sensor which is reflectd in the price. 
+The mirrorless camera is a relatively new style of camera which aims to combine the ergonomic shape of a traditional compact camera with the quality and functionality of a DSLR. The highlight is the ability to change lenses along with a high quality sensor which is reflected in the price. 
 
 That said, while the guts are similar to the DSLR, they operate quite differently. The "mirrorless"-ness means when you look through the viewfinder you're looking at a digital screen, not through the lens as with a DLSR (see below). There's also a lot less space for buttons and dials, so compromises will be made.
 
