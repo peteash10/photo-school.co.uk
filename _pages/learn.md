@@ -49,18 +49,6 @@ If learning in a class doesn’t appeal to you or you’re after something quite
 
 <a href="/personal-tuition" class="btn btn--primary">More info</a>
 
-## Intermediate	Photography
-
-New for 2018, a series of short classes looking at camera functions and compositional techniques. 
-
-<a href="/intermediate-photography" class="btn btn--primary">More info</a>
-
-## Lightroom Basics
-
-Adobe's [Lightroom Classic](https://www.adobe.com/uk/products/photoshop-lightroom-classic.html) is the industry standard for processing digital photographs but it has a steep learning curve. You'll understand the hows and whys of this powerful piece of software and be able to process your photos to another level.  
-
-<a href="/lightroom" class="btn btn--primary">More info</a>
-
 
 ## City at Night
 
