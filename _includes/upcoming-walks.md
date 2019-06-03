@@ -2,9 +2,6 @@
 
 Walk               | Date    | Price | Book
 -------------------|---------|-------|-----
-[Digbeth](/digbeth) | May 5 | £10   | <a href="https://ti.to/photo-school/birmingham-photo-walks" class="btn btn--primary">Book</a>
-[Bournville](/bournville) | May 18 | £10   | <a href="https://ti.to/photo-school/birmingham-photo-walks" class="btn btn--primary">Book</a>
-[Jewellery Quarter](/jewellery-quarter) | Jun 1 | £10   | <a href="https://ti.to/photo-school/birmingham-photo-walks" class="btn btn--primary">Book</a>
 [Spaghetti Junction](/spaghetti-junction) | Jul 7   | £15   | <a href="https://ti.to/photo-school/birmingham-photo-walks" class="btn btn--primary">Book</a>
 [Digbeth](/digbeth) | Sep 1 | £10   | <a href="https://ti.to/photo-school/birmingham-photo-walks" class="btn btn--primary">Book</a>
 [Spaghetti Junction](/spaghetti-junction) | Sep 29   | £15   | <a href="https://ti.to/photo-school/birmingham-photo-walks" class="btn btn--primary">Book</a>
