@@ -13,7 +13,7 @@ excerpt: 'A Photo Walk and Class in one; making beautiful images in challenging 
 
 
 ---
-This three hour walking workshop takes in the buildings, canals and roadways of central Birmingham with an emphasis on tripods and long exposures. If you’re a complete novice Pete will be on hand to show you how to shoot in Manual and use your tripod effectively. If you’re an expert you can benefit from safety in numbers. 
+This 3 hour Night Walk takes in the buildings, canals and roadways of central Birmingham with an emphasis on tripods and long exposures. Warming up in the Jewellery Quarter head over the Queensway to shoot the cars, then on to the canals of Brindley Place before ending at the new Centenary Square. If you're a complete novice I'll be on hand to show you how to shoot in Manual and use your tripod effectively. If you're an expert you can benefit from safety in numbers. Most people are somewhere inbetween.
 
 *Tripods can be hired for £5.*
 
@@ -24,7 +24,7 @@ This three hour walking workshop takes in the buildings, canals and roadways of 
 
 **Frequency:** Weekday evening, monthly from Nov to Feb.
 
-**Starting Point:** [Cherry Reds cafe](https://cherryreds.com/), John Bright St.
+**Starting Point:** Outside [St Paul's Church](https://goo.gl/maps/RFtzhboDM2JeVQvw7), Jewellery Quarter. 
 
 **Standard price:** £15
 

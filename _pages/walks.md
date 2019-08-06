@@ -58,7 +58,7 @@ This three hour walking workshop takes in the buildings, canals and roadways of 
 
 [![](/assets/images/jqsquare.jpg)](/jewellery-quarter)
 
-A new walk, devised with the [Jewellery Quarter Townscape Heritage](https://jewelleryquarter.net/townscape-heritage/) project, that looks at how the history of this fascinating area is being preserved for the future, but at what cost?
+Devised with the [Jewellery Quarter Townscape Heritage](https://jewelleryquarter.net/townscape-heritage/) project, this walk looks at how the history of this fascinating area is being preserved for the future, but at what cost?
  
 <a href="/jewellery-quarter" class="btn btn--primary">More info</a>
 
@@ -68,7 +68,7 @@ A new walk, devised with the [Jewellery Quarter Townscape Heritage](https://jewe
 
 [![](/assets/images/bournville.jpg)](/bournville)
 
-A new walk around the picturesque garden suburb built from scratch by the Cadbury family to house their workers when they moved their factory from the Birmingham slums a century ago. The streets of Bournville is where I first learned photography, exploring this fascinating place with my camera. A return has been long overdue. 
+A walk around the picturesque garden suburb built from scratch by the Cadbury family to house their workers when they moved their factory from the Birmingham slums a century ago. The streets of Bournville is where I first learned photography, exploring this fascinating place with my camera while learning it's history. Lots of stories to tell! 
  
 <a href="/bournville" class="btn btn--primary">More info</a>
 
