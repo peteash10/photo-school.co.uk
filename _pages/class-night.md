@@ -13,7 +13,7 @@ excerpt: 'A Photo Walk and Class in one; making beautiful images in challenging 
 
 
 ---
-This 3 hour Night Walk takes in the buildings, canals and roadways of central Birmingham with an emphasis on tripods and long exposures. Warming up in the Jewellery Quarter head over the Queensway to shoot the cars, then on to the canals of Brindley Place before ending at the new Centenary Square. If you're a complete novice I'll be on hand to show you how to shoot in Manual and use your tripod effectively. If you're an expert you can benefit from safety in numbers. Most people are somewhere inbetween.
+This 3 hour walking workshop takes in the buildings, canals and roadways of central Birmingham with an emphasis on tripods and long exposures. Warming up in the Jewellery Quarter, where beginners can get up to speed, we head over the Queensway to shoot the cars, then on to the canals of Brindley Place before ending at the new Centenary Square. If you're a complete novice I'll be on hand to show you how to shoot in Manual and use your tripod effectively. If you're an expert you can benefit from safety in numbers. Most people are somewhere inbetween.
 
 *Tripods can be hired for £5.*
 
