@@ -1,6 +1,6 @@
 ---
 layout: splash
-title: "Photo School Birmingham"
+title: "Photo School, Birmingham."
 permalink: /
 header:
   overlay_image: /assets/images/lion.jpg
