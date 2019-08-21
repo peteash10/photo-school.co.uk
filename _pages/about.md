@@ -7,7 +7,7 @@ title: "What Photo School is About"
 permalink: /about-photo-school/
 header:
   overlay_image: /assets/images/pentax.jpg
-excerpt: ' '
+excerpt: ''
 ---
 
 
